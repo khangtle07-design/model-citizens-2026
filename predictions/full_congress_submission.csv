@@ -1,0 +1,471 @@
+state,district,chamber,predicted_winner,party,model_probability
+AK,AK-AL,House,Nick Begich,R,0.7562
+AL,AL-01,House,Jerry Carl,R,0.991
+AL,AL-02,House,Rhett Marques,R,0.6032
+AL,AL-03,House,Mike Rogers,R,0.9943
+AL,AL-04,House,Robert B. Aderholt,R,0.9943
+AL,AL-05,House,Dale W. Strong,R,0.9699
+AL,AL-06,House,Gary Palmer,R,0.9858
+AL,AL-07,House,Terri Sewell,D,0.9964
+AR,AR-01,House,Rick Crawford,R,0.9858
+AR,AR-02,House,French Hill,R,0.8457
+AR,AR-03,House,Steve Womack,R,0.9736
+AR,AR-04,House,Bruce Westerman,R,0.991
+AZ,AZ-01,House,Amish Shah,D,0.79
+AZ,AZ-02,House,Eli Crane,R,0.7022
+AZ,AZ-03,House,Yassamin Ansari,D,0.9964
+AZ,AZ-04,House,Greg Stanton,D,0.9922
+AZ,AZ-05,House,Mark Lamb,R,0.8494
+AZ,AZ-06,House,JoAnna Mendoza,D,0.8508
+AZ,AZ-07,House,Adelita Grijalva,D,0.9964
+AZ,AZ-08,House,Abraham 'Abe' Hamadeh,R,0.8649
+AZ,AZ-09,House,Paul Gosar,R,0.9778
+CA,CA-01,House,Mike McGuire,D,0.8383
+CA,CA-02,House,Jared Huffman,D,0.9964
+CA,CA-03,House,Ami Bera,D,0.9909
+CA,CA-04,House,Mike Thompson,D,0.9964
+CA,CA-05,House,Tom McClintock,R,0.9298
+CA,CA-06,House,Richard Pan,D,0.9865
+CA,CA-07,House,Doris Matsui,D,0.9964
+CA,CA-08,House,John Garamendi,D,0.9964
+CA,CA-09,House,Josh Harder,D,0.9887
+CA,CA-10,House,Mark DeSaulnier,D,0.9964
+CA,CA-11,House,Scott Wiener,D,0.9964
+CA,CA-12,House,Lateefah Simon,D,0.9964
+CA,CA-13,House,Adam Gray,D,0.9883
+CA,CA-14,House,Aisha Wahab,D,0.9964
+CA,CA-15,House,Kevin Mullin,D,0.991
+CA,CA-16,House,Sam Liccardo,D,0.991
+CA,CA-17,House,Ro Khanna,D,0.9943
+CA,CA-18,House,Zoe Lofgren,D,0.9835
+CA,CA-19,House,Jimmy Panetta,D,0.998
+CA,CA-20,House,Vince Fong,R,0.9781
+CA,CA-21,House,Jim Costa,D,0.9479
+CA,CA-22,House,Randy Villegas,D,0.8478
+CA,CA-23,House,Jay Obernolte,R,0.9384
+CA,CA-24,House,Salud Carbajal,D,0.991
+CA,CA-25,House,Raul Ruiz,D,0.9634
+CA,CA-26,House,Jacqui Irwin,D,0.9771
+CA,CA-27,House,George Whitesides,D,0.9683
+CA,CA-28,House,Judy Chu,D,0.9943
+CA,CA-29,House,Luz Maria Rivas,D,0.9964
+CA,CA-30,House,Laura Friedman,D,0.9835
+CA,CA-31,House,Gil Cisneros,D,0.9835
+CA,CA-32,House,Brad Sherman,D,0.991
+CA,CA-33,House,Pete Aguilar,D,0.9831
+CA,CA-34,House,Jimmy Gomez,D,0.998
+CA,CA-35,House,Norma J. Torres,D,0.9731
+CA,CA-36,House,Ted Lieu,D,0.9835
+CA,CA-37,House,Sydney Kamlager-Dove,D,0.998
+CA,CA-38,House,Democratic nominee (name not collected),D,0.9943
+CA,CA-39,House,Mark Takano,D,0.9797
+CA,CA-40,House,Young Kim,R,0.9964
+CA,CA-41,House,Linda Sánchez,D,0.9539
+CA,CA-42,House,Robert Garcia,D,0.9858
+CA,CA-43,House,Maxine Waters,D,0.991
+CA,CA-44,House,Nanette Diaz Barragan,D,0.9858
+CA,CA-45,House,Derek Tran,D,0.9448
+CA,CA-46,House,Lou Correa,D,0.991
+CA,CA-47,House,Dave Min,D,0.9558
+CA,CA-48,House,Marni von Wilpert,D,0.8894
+CA,CA-49,House,Mike Levin,D,0.9759
+CA,CA-50,House,Scott Peters,D,0.991
+CA,CA-51,House,Sara Jacobs,D,0.991
+CA,CA-52,House,Juan Vargas,D,0.991
+CO,CO-01,House,Melat Kiros,D,0.998
+CO,CO-02,House,Joe Neguse,D,0.9943
+CO,CO-03,House,Jeff Hurd,R,0.7154
+CO,CO-04,House,Lauren Boebert,R,0.7394
+CO,CO-05,House,Jeff Crank,R,0.6976
+CO,CO-06,House,Jason Crow,D,0.9943
+CO,CO-07,House,Brittany Pettersen,D,0.991
+CO,CO-08,House,Manny Rutinel,D,0.8047
+CT,CT-01,House,Luke Bronin,D,0.9858
+CT,CT-02,House,Joe Courtney,D,0.9922
+CT,CT-03,House,Rosa L. DeLauro,D,0.9835
+CT,CT-04,House,James A. Himes,D,0.9883
+CT,CT-05,House,Jahana Hayes,D,0.9703
+DE,DE-AL,House,Sarah McBride,D,0.991
+FL,FL-01,House,Jimmy Patronis,R,0.9879
+FL,FL-02,House,Austin Rogers,R,0.9257
+FL,FL-03,House,Kat Cammack,R,0.9464
+FL,FL-04,House,Aaron Bean,R,0.8077
+FL,FL-05,House,John H. Rutherford,R,0.946
+FL,FL-06,House,Randy Fine,R,0.9947
+FL,FL-07,House,Ryan Elijah,R,0.744
+FL,FL-08,House,Mike Haridopolos,R,0.9889
+FL,FL-09,House,Dan Green,R,0.7152
+FL,FL-10,House,Maxwell Frost,D,0.9964
+FL,FL-11,House,Carey Baker,R,0.8515
+FL,FL-12,House,Gus M. Bilirakis,R,0.9661
+FL,FL-13,House,Anna Paulina Luna,R,0.7267
+FL,FL-14,House,Kathy Castor,D,0.6315
+FL,FL-15,House,Laurel Lee,R,0.9839
+FL,FL-16,House,Sydney Gruters,R,0.8398
+FL,FL-17,House,Greg Steube,R,0.9901
+FL,FL-18,House,Scott Franklin,R,0.9939
+FL,FL-19,House,Jim Schwartzel,R,0.9936
+FL,FL-20,House,Debbie Wasserman Schultz,D,0.991
+FL,FL-21,House,Brian J. Mast,R,0.8601
+FL,FL-22,House,Casey Askar,R,0.4292
+FL,FL-23,House,Lois Frankel,D,0.9838
+FL,FL-24,House,Oliver G. Gilbert III,D,0.9883
+FL,FL-25,House,Jared Moskowitz,D,0.8002
+FL,FL-26,House,Mario Diaz-Balart,R,0.9593
+FL,FL-27,House,Maria Elvira Salazar,R,0.7132
+FL,FL-28,House,Carlos A. Gimenez,R,0.9912
+GA,GA-01,House,James 'Jim' Kingston,R,0.8279
+GA,GA-02,House,Sanford Bishop,D,0.977
+GA,GA-03,House,Brian Jack,R,0.9957
+GA,GA-04,House,Henry 'Hank' Johnson Jr.,D,0.9883
+GA,GA-05,House,Nikema Williams,D,0.991
+GA,GA-06,House,Lucy McBath,D,0.991
+GA,GA-07,House,Rich McCormick,R,0.9376
+GA,GA-08,House,Austin Scott,R,0.9961
+GA,GA-09,House,Andrew Clyde,R,0.9964
+GA,GA-10,House,Houston Gaines,R,0.9257
+GA,GA-11,House,John Cowan,R,0.9931
+GA,GA-12,House,Rick W. Allen,R,0.8501
+GA,GA-13,House,Jasmine Clark,D,0.9883
+GA,GA-14,House,Clay Fuller,R,0.9956
+HI,HI-01,House,Ed Case,D,0.9858
+HI,HI-02,House,Jill N. Tokuda,D,0.9813
+IA,IA-01,House,Christina Bohannan,D,0.858
+IA,IA-02,House,Lindsay James,D,0.6451
+IA,IA-03,House,Sarah Trone Garriott,D,0.8076
+IA,IA-04,House,Chris McGowan,R,0.9876
+ID,ID-01,House,Russ Fulcher,R,0.9964
+ID,ID-02,House,Mike Simpson,R,0.9936
+IL,IL-01,House,Jonathan L. Jackson,D,0.991
+IL,IL-02,House,Donna Miller,D,0.991
+IL,IL-03,House,Delia Ramirez,D,0.9883
+IL,IL-04,House,Patty Garcia,D,0.9813
+IL,IL-05,House,Mike Quigley,D,0.991
+IL,IL-06,House,Sean Casten,D,0.9647
+IL,IL-07,House,La Shawn K. Ford,D,0.991
+IL,IL-08,House,Melissa L. Bean,D,0.9779
+IL,IL-09,House,Daniel Biss,D,0.9835
+IL,IL-10,House,Brad Schneider,D,0.9858
+IL,IL-11,House,Bill Foster,D,0.9948
+IL,IL-12,House,Mike Bost,R,0.9964
+IL,IL-13,House,Nikki Budzinski,D,0.9958
+IL,IL-14,House,Lauren Underwood,D,0.9926
+IL,IL-15,House,Mary E. Miller,R,0.9964
+IL,IL-16,House,Darin LaHood,R,0.9892
+IL,IL-17,House,Eric Sorensen,D,0.992
+IN,IN-01,House,Frank J. Mrvan,D,0.9885
+IN,IN-02,House,Rudy Yakym III,R,0.9923
+IN,IN-03,House,Marlin A. Stutzman,R,0.9963
+IN,IN-04,House,James R. Baird,R,0.9952
+IN,IN-05,House,Victoria Spartz,R,0.8517
+IN,IN-06,House,Jefferson Shreve,R,0.9964
+IN,IN-07,House,André Carson,D,0.9964
+IN,IN-08,House,Mark B. Messmer,R,0.9964
+IN,IN-09,House,Erin Houchin,R,0.9946
+KS,KS-01,House,Tracey Mann,R,0.9962
+KS,KS-02,House,Derek Schmidt,R,0.8561
+KS,KS-03,House,Sharice Davids,D,0.9925
+KS,KS-04,House,Ron Estes,R,0.9915
+KY,KY-01,House,James R. Comer,R,0.9964
+KY,KY-02,House,S. Brett Guthrie,R,0.9964
+KY,KY-03,House,Morgan McGarvey,D,0.9964
+KY,KY-04,House,Ed Gallrein,R,0.9964
+KY,KY-05,House,Hal Rogers,R,0.9964
+KY,KY-06,House,Ralph Alvarado,R,0.5712
+LA,LA-01,House,Steve Scalise,R,0.9964
+LA,LA-02,House,Troy A. Carter Sr.,D,0.9964
+LA,LA-03,House,Clay Higgins,R,0.9964
+LA,LA-04,House,Mike Johnson,R,0.9964
+LA,LA-05,House,Republican nominee (name not collected),R,0.9902
+LA,LA-06,House,Republican nominee (name not collected),R,0.8883
+MA,MA-01,House,Richard E. Neal,D,0.9958
+MA,MA-02,House,James P. McGovern,D,0.9964
+MA,MA-03,House,Lori Loureiro Trahan,D,0.9964
+MA,MA-04,House,Jake Auchincloss,D,0.9964
+MA,MA-05,House,Katherine M. Clark,D,0.9964
+MA,MA-06,House,Dan Koh,D,0.9964
+MA,MA-07,House,Ayanna S. Pressley,D,0.9964
+MA,MA-08,House,Stephen F. Lynch,D,0.9964
+MA,MA-09,House,William R. Keating,D,0.9951
+MD,MD-01,House,Andy Harris,R,0.8646
+MD,MD-02,House,"Johnny Olszewski, Jr.",D,0.9964
+MD,MD-03,House,Sarah Elfreth,D,0.9964
+MD,MD-04,House,Glenn Ivey,D,0.9964
+MD,MD-05,House,Adrian Boafo,D,0.9964
+MD,MD-06,House,April McClain Delaney,D,0.9927
+MD,MD-07,House,Kweisi Mfume,D,0.9964
+MD,MD-08,House,Jamie Raskin,D,0.9964
+ME,ME-01,House,Chellie Pingree,D,0.9964
+ME,ME-02,House,Republican nominee (name not collected),R,0.5668
+MI,MI-01,House,Jack Bergman,R,0.9011
+MI,MI-02,House,John R. Moolenaar,R,0.995
+MI,MI-03,House,Hillary J. Scholten,D,0.9935
+MI,MI-04,House,Bill Huizenga,R,0.4385
+MI,MI-05,House,Tim Walberg,R,0.9939
+MI,MI-06,House,Debbie Dingell,D,0.9964
+MI,MI-07,House,William Lawrence,D,0.6747
+MI,MI-08,House,Kristen McDonald Rivet,D,0.9883
+MI,MI-09,House,Lisa McClain,R,0.9964
+MI,MI-10,House,Christina Bertrand Hines,D,0.648
+MI,MI-11,House,Jeremy Moss,D,0.9916
+MI,MI-12,House,Rashida Tlaib,D,0.9964
+MI,MI-13,House,Donavan McKinney,D,0.9964
+MN,MN-01,House,Brad Finstad,R,0.7045
+MN,MN-02,House,Matt Little,D,0.9825
+MN,MN-03,House,Kelly Morrison,D,0.9964
+MN,MN-04,House,Betty McCollum,D,0.9964
+MN,MN-05,House,Ilhan Omar,D,0.9964
+MN,MN-06,House,Tom Emmer,R,0.988
+MN,MN-07,House,Michelle Fischbach,R,0.9964
+MN,MN-08,House,Pete Stauber,R,0.8257
+MO,MO-01,House,Wesley Bell,D,0.9964
+MO,MO-02,House,Ann Wagner,R,0.67
+MO,MO-03,House,"Robert F. Onder, Jr.",R,0.9929
+MO,MO-04,House,Mark Alford,R,0.9964
+MO,MO-05,House,Emanuel Cleaver,D,0.9964
+MO,MO-06,House,Chris Stigall,R,0.9964
+MO,MO-07,House,Eric W. Burlison,R,0.9964
+MO,MO-08,House,Jason T. Smith,R,0.9964
+MS,MS-01,House,Trent Kelly,R,0.9964
+MS,MS-02,House,Bennie G. Thompson,D,0.9964
+MS,MS-03,House,Michael Guest,R,0.9937
+MS,MS-04,House,Mike Ezell,R,0.9964
+MT,MT-01,House,Sam Forstag,D,0.4791
+MT,MT-02,House,Troy Downing,R,0.9952
+NC,NC-01,House,Don Davis,D,0.7352
+NC,NC-02,House,Deborah K. Ross,D,0.9964
+NC,NC-03,House,Greg Murphy,R,0.7898
+NC,NC-04,House,Valerie P. Foushee,D,0.9964
+NC,NC-05,House,Virginia Foxx,R,0.8763
+NC,NC-06,House,Addison McDowell,R,0.8906
+NC,NC-07,House,David Rouzer,R,0.7905
+NC,NC-08,House,Mark Harris,R,0.9814
+NC,NC-09,House,Richard Hudson,R,0.7522
+NC,NC-10,House,Pat Harrigan,R,0.9664
+NC,NC-11,House,Jamie Ager,D,0.7661
+NC,NC-12,House,Alma S. Adams,D,0.9964
+NC,NC-13,House,Brad Knott,R,0.7648
+NC,NC-14,House,Tim Moore,R,0.8562
+ND,ND-AL,House,Julie Fedorchak,R,0.9964
+NE,NE-01,House,Mike Flood,R,0.8389
+NE,NE-02,House,Denise Powell,D,0.9697
+NE,NE-03,House,Adrian Smith,R,0.9964
+NH,NH-01,House,Stefany Shaheen,D,0.9692
+NH,NH-02,House,Maggie Goodlander,D,0.9918
+NJ,NJ-01,House,Donald Norcross,D,0.9964
+NJ,NJ-02,House,Jeff Van Drew,R,0.808
+NJ,NJ-03,House,Herb Conaway,D,0.9943
+NJ,NJ-04,House,Christopher H. Smith,R,0.9954
+NJ,NJ-05,House,Josh Gottheimer,D,0.9869
+NJ,NJ-06,House,Frank Pallone Jr.,D,0.9947
+NJ,NJ-07,House,Rebecca Bennett,D,0.8824
+NJ,NJ-08,House,Rob Menendez,D,0.9964
+NJ,NJ-09,House,Nelida Pou,D,0.9535
+NJ,NJ-10,House,LaMonica McIver,D,0.9964
+NJ,NJ-11,House,Analilia Mejia,D,0.9807
+NJ,NJ-12,House,Adam Hamawy,D,0.9964
+NM,NM-01,House,Melanie Ann Stansbury,D,0.9956
+NM,NM-02,House,Gabriel Vasquez,D,0.9846
+NM,NM-03,House,Teresa Leger Fernandez,D,0.9932
+NV,NV-01,House,Dina Titus,D,0.9888
+NV,NV-02,House,Republican nominee (name not collected),R,0.7281
+NV,NV-03,House,Susie Lee,D,0.9844
+NV,NV-04,House,Steven Horsford,D,0.989
+NY,NY-01,House,Nicholas J. LaLota,R,0.7637
+NY,NY-02,House,Andrew R. Garbarino,R,0.8397
+NY,NY-03,House,Thomas R. Suozzi,D,0.9837
+NY,NY-04,House,Laura A. Gillen,D,0.9888
+NY,NY-05,House,Gregory W. Meeks,D,0.9964
+NY,NY-06,House,Grace Meng,D,0.9963
+NY,NY-07,House,Claire Valdez,D,0.9964
+NY,NY-08,House,Hakeem S. Jeffries,D,0.9964
+NY,NY-09,House,Yvette D. Clarke,D,0.9964
+NY,NY-10,House,Brad Lander,D,0.9964
+NY,NY-11,House,Nicole Malliotakis,R,0.9912
+NY,NY-12,House,Democratic nominee (name not collected),D,0.9275
+NY,NY-13,House,Darializa Avila Chevalier,D,0.9964
+NY,NY-14,House,Alexandria Ocasio-Cortez,D,0.9964
+NY,NY-15,House,Ritchie Torres,D,0.9858
+NY,NY-16,House,George Latimer,D,0.9943
+NY,NY-17,House,Cait Conley,D,0.6028
+NY,NY-18,House,Patrick Ryan,D,0.9825
+NY,NY-19,House,Josh Riley,D,0.957
+NY,NY-20,House,Paul Tonko,D,0.991
+NY,NY-21,House,Anthony Constantino,R,0.7139
+NY,NY-22,House,John W. Mannion,D,0.9683
+NY,NY-23,House,Nicholas A. Langworthy,R,0.9911
+NY,NY-24,House,Claudia Tenney,R,0.9918
+NY,NY-25,House,Joseph D. Morelle,D,0.9943
+NY,NY-26,House,Timothy M. Kennedy,D,0.9835
+OH,OH-01,House,Greg Landsman,D,0.9345
+OH,OH-02,House,David J. Taylor,R,0.9964
+OH,OH-03,House,Joyce Beatty,D,0.9943
+OH,OH-04,House,Jim Jordan,R,0.9964
+OH,OH-05,House,Bob Latta,R,0.9938
+OH,OH-06,House,Michael A. Rulli,R,0.996
+OH,OH-07,House,Brian Poindexter,D,0.6995
+OH,OH-08,House,Warren Davidson,R,0.9899
+OH,OH-09,House,Marcy Kaptur,D,0.7435
+OH,OH-10,House,Mike Turner,R,0.6913
+OH,OH-11,House,Shontel M. Brown,D,0.9858
+OH,OH-12,House,Troy Balderson,R,0.9956
+OH,OH-13,House,Emilia Sykes,D,0.9347
+OH,OH-14,House,David P. Joyce,R,0.9689
+OH,OH-15,House,Mike Carey,R,0.6609
+OK,OK-01,House,Mark Tedford,R,0.9315
+OK,OK-02,House,Josh Brecheen,R,0.9964
+OK,OK-03,House,Frank D. Lucas,R,0.9964
+OK,OK-04,House,Tom Cole,R,0.9964
+OK,OK-05,House,Stephanie Bice,R,0.871
+OR,OR-01,House,Suzanne Bonamici,D,0.9858
+OR,OR-02,House,Cliff Bentz,R,0.9935
+OR,OR-03,House,Maxine Dexter,D,0.991
+OR,OR-04,House,Val T. Hoyle,D,0.9814
+OR,OR-05,House,Janelle S. Bynum,D,0.9647
+OR,OR-06,House,Andrea Salinas,D,0.9843
+PA,PA-01,House,Brian Fitzpatrick,R,0.5978
+PA,PA-02,House,Brendan F. Boyle,D,0.9883
+PA,PA-03,House,Chris Rabb,D,0.9943
+PA,PA-04,House,Madeleine Dean,D,0.991
+PA,PA-05,House,Mary Gay Scanlon,D,0.9943
+PA,PA-06,House,Chrissy Houlahan,D,0.988
+PA,PA-07,House,Bob Brooks,D,0.7772
+PA,PA-08,House,Paige Cognetti,D,0.719
+PA,PA-09,House,Dan Meuser,R,0.9964
+PA,PA-10,House,Janelle Stelson,D,0.7885
+PA,PA-11,House,Lloyd K. Smucker,R,0.989
+PA,PA-12,House,Summer L. Lee,D,0.9943
+PA,PA-13,House,John Joyce,R,0.9964
+PA,PA-14,House,Guy Reschenthaler,R,0.9956
+PA,PA-15,House,Glenn Thompson,R,0.9964
+PA,PA-16,House,Mike Kelly,R,0.9903
+PA,PA-17,House,Christopher R. Deluzio,D,0.9478
+RI,RI-01,House,Gabe Amo,D,0.9883
+RI,RI-02,House,Seth Magaziner,D,0.9742
+SC,SC-01,House,Jenny Costa Honeycutt,R,0.6458
+SC,SC-02,House,Joe Wilson,R,0.8445
+SC,SC-03,House,Sheri Biggs,R,0.9964
+SC,SC-04,House,William Timmons,R,0.989
+SC,SC-05,House,Wes Climer,R,0.9402
+SC,SC-06,House,James E Jim Clyburn,D,0.991
+SC,SC-07,House,Russell Fry,R,0.9926
+SD,SD-AL,House,Republican nominee (name not collected),R,0.9964
+TN,TN-01,House,Diana Harshbarger,R,0.9964
+TN,TN-02,House,Tim Burchett,R,0.9961
+TN,TN-03,House,"Charles J. ""Chuck"" Fleischmann",R,0.9964
+TN,TN-04,House,Scott DesJarlais,R,0.9964
+TN,TN-05,House,Charlie Hatcher,R,0.8838
+TN,TN-06,House,Republican nominee (name not collected),R,0.9901
+TN,TN-07,House,Matt Van Epps,R,0.9888
+TN,TN-08,House,David Kustoff,R,0.9964
+TN,TN-09,House,Brent Taylor,R,0.7384
+TX,TX-01,House,Nathaniel Moran,R,0.9964
+TX,TX-02,House,Steve Toth,R,0.99
+TX,TX-03,House,Keith Self,R,0.984
+TX,TX-04,House,Pat Fallon,R,0.9955
+TX,TX-05,House,Lance Gooden,R,0.9924
+TX,TX-06,House,Jake Ellzey,R,0.9933
+TX,TX-07,House,Lizzie Pannill Fletcher,D,0.9858
+TX,TX-08,House,Jessica Hart Steinmann,R,0.9961
+TX,TX-09,House,Alex Mealer,R,0.7837
+TX,TX-10,House,Chris Gober,R,0.9908
+TX,TX-11,House,August Pfluger,R,0.9964
+TX,TX-12,House,Craig A. Goldman,R,0.989
+TX,TX-13,House,Ronny Jackson,R,0.9964
+TX,TX-14,House,"Randy K. Weber, Sr.",R,0.9961
+TX,TX-15,House,Bobby Pulido,D,0.6499
+TX,TX-16,House,Veronica Escobar,D,0.9943
+TX,TX-17,House,Pete Sessions,R,0.9937
+TX,TX-18,House,Christian Menefee,D,0.9883
+TX,TX-19,House,Republican nominee (name not collected),R,0.9964
+TX,TX-20,House,Joaquin Castro,D,0.9883
+TX,TX-21,House,Republican nominee (name not collected),R,0.9899
+TX,TX-22,House,Republican nominee (name not collected),R,0.9809
+TX,TX-23,House,Brandon Herrera,R,0.6776
+TX,TX-24,House,Beth Van Duyne,R,0.9364
+TX,TX-25,House,Roger Williams,R,0.9964
+TX,TX-26,House,Brandon Gill,R,0.9897
+TX,TX-27,House,Michael Cloud,R,0.994
+TX,TX-28,House,Henry Cuellar,D,0.9016
+TX,TX-29,House,Sylvia R. Garcia,D,0.991
+TX,TX-30,House,Democratic nominee (name not collected),D,0.9943
+TX,TX-31,House,John R. Carter,R,0.9896
+TX,TX-32,House,Republican nominee (name not collected),R,0.857
+TX,TX-33,House,Colin Allred,D,0.9943
+TX,TX-34,House,Vicente Gonzalez,D,0.7882
+TX,TX-35,House,Johnny Garcia,D,0.6187
+TX,TX-36,House,Brian Babin,R,0.9964
+TX,TX-37,House,Greg Casar,D,0.9835
+TX,TX-38,House,Republican nominee (name not collected),R,0.9871
+UT,UT-01,House,Democratic nominee (name not collected),D,0.9777
+UT,UT-02,House,Republican nominee (name not collected),R,0.9909
+UT,UT-03,House,Celeste Maloy,R,0.9909
+UT,UT-04,House,Republican nominee (name not collected),R,0.9909
+VA,VA-01,House,"Robert J. ""Rob"" Wittman",R,0.4388
+VA,VA-02,House,Elaine G. Luria,D,0.8579
+VA,VA-03,House,"Robert C. ""Bobby"" Scott",D,0.9943
+VA,VA-04,House,Jennifer L. McClellan,D,0.991
+VA,VA-05,House,John J. McGuire III,R,0.7222
+VA,VA-06,House,Ben L. Cline,R,0.9914
+VA,VA-07,House,Eugene S. Vindman,D,0.9637
+VA,VA-08,House,"Donald ""Don"" S. Beyer Jr.",D,0.9943
+VA,VA-09,House,H. Morgan Griffith,R,0.9964
+VA,VA-10,House,Suhas Subramanyam,D,0.9731
+VA,VA-11,House,James R. Walkinshaw,D,0.9858
+VT,VT-AL,House,Becca Balint,D,0.9943
+WA,WA-01,House,Suzan K. DelBene,D,0.9883
+WA,WA-02,House,Rick Larsen,D,0.9835
+WA,WA-03,House,Marie Gluesenkamp Perez,D,0.8955
+WA,WA-04,House,Republican nominee (name not collected),R,0.9064
+WA,WA-05,House,Michael Baumgartner,R,0.8525
+WA,WA-06,House,Emily Randall,D,0.998
+WA,WA-07,House,Pramila Jayapal,D,0.991
+WA,WA-08,House,Kim Schrier,D,0.9559
+WA,WA-09,House,Adam Smith,D,0.9943
+WA,WA-10,House,Marilyn Strickland,D,0.9813
+WI,WI-01,House,Bryan Steil,R,0.5949
+WI,WI-02,House,Mark Pocan,D,0.9858
+WI,WI-03,House,Rebecca Cooke,D,0.7795
+WI,WI-04,House,Gwen Moore,D,0.9943
+WI,WI-05,House,Scott Fitzgerald,R,0.9906
+WI,WI-06,House,Glenn Grothman,R,0.9725
+WI,WI-07,House,Michael Alfonso,R,0.938
+WI,WI-08,House,Tony Wied,R,0.8849
+WV,WV-01,House,Carol Miller,R,0.9964
+WV,WV-02,House,Riley M. Moore,R,0.9964
+WY,WY-AL,House,Chuck Gray,R,0.9964
+AL,,Senate,Barry Moore,R,0.9887
+AK,,Senate,Mary Peltola,D,0.731
+AR,,Senate,Tom Cotton,R,0.9862
+CO,,Senate,John Hickenlooper,D,0.9941
+DE,,Senate,Chris Coons,D,0.9936
+FL,SPECIAL,Senate,Ashley Moody,R,0.8756
+GA,,Senate,Jon Ossoff,D,0.9573
+ID,,Senate,Jim Risch,R,0.9888
+IL,,Senate,Juliana Stratton,D,0.988
+IA,,Senate,Josh Turek,D,0.4428
+KS,,Senate,Roger Marshall,R,0.6228
+KY,,Senate,Andy Barr,R,0.9839
+LA,,Senate,Julia Letlow,R,0.9299
+ME,,Senate,Troy Jackson,D,0.6727
+MA,,Senate,Ed Markey,D,0.9922
+MI,,Senate,Abdul El-Sayed,D,0.7504
+MN,,Senate,Peggy Flanagan,D,0.883
+MS,,Senate,Cindy Hyde-Smith,R,0.9176
+MT,,Senate,Kurt Alme,R,0.9715
+NE,,Senate,Pete Ricketts,R,0.7413
+NH,,Senate,Chris Pappas,D,0.9298
+NJ,,Senate,Cory Booker,D,0.9766
+NM,,Senate,Ben Ray Lujan,D,0.9812
+NC,,Senate,Roy Cooper,D,0.9759
+OH,SPECIAL,Senate,Sherrod Brown,D,0.7237
+OK,,Senate,Kevin Hern,R,0.9936
+OR,,Senate,Jeff Merkley,D,0.9955
+RI,,Senate,Jack Reed,D,0.9955
+SC,,Senate,Darline Graham (Nordone),R,0.7694
+SD,,Senate,Mike Rounds,R,0.9853
+TN,,Senate,Bill Hagerty,R,0.9852
+TX,,Senate,Ken Paxton,R,0.4122
+VA,,Senate,Mark Warner,D,0.9863
+WV,,Senate,Shelley Moore Capito,R,0.9936
+WY,,Senate,Harriet Hageman,R,0.9936

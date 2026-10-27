@@ -1,0 +1,13 @@
+OLS margin model: {'intercept': np.float64(-0.0), 'lag_margin': 0.8898, 'inc_t': 0.0512, 'inc_prev': -0.0326, 'swing': 0.8764}
+Logit P(D win) coefs: {'lag_margin': np.float64(12.391), 'inc_t': np.float64(1.503), 'inc_prev': np.float64(-0.085), 'swing': np.float64(22.261)}
+Residual SDs: {'sd_inc': np.float64(0.0873), 'sd_open': np.float64(0.1183), 'sd_year': np.float64(0.0099), 'n': 2918, 'years': [2004, 2006, 2008, 2010, 2014, 2016, 2018, 2020, 2024]}
+ year   n  n_competitive  acc_ols  acc_ols_competitive  brier_ols  brier_logit  mae_margin_pts
+ 2004 293             52    0.973                0.885      0.024        0.023           7.801
+ 2006 306             42    0.899                0.738      0.079        0.079           7.456
+ 2008 342             84    0.909                0.750      0.062        0.066           8.470
+ 2010 358             76    0.888                0.855      0.078        0.069           9.105
+ 2014 329             95    0.945                0.832      0.034        0.034           6.167
+ 2016 282             64    0.975                0.906      0.024        0.022           7.238
+ 2018 328             54    0.893                0.648      0.071        0.072           6.140
+ 2020 364            122    0.953                0.861      0.032        0.029           4.778
+ 2024 316             95    0.968                0.905      0.028        0.026           4.142

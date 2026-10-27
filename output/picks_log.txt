@@ -1,0 +1,35 @@
+Pick-rule grid (top 8, full congress):
+ tau  delta  n_upsets   mean    sd    p10    p50  objective
+0.40   0.00         6 40.284 2.857 36.546 40.388     38.855
+0.40   0.02         6 40.284 2.857 36.546 40.388     38.855
+0.40   0.03         4 40.056 3.157 35.846 40.219     38.478
+0.45   0.00         1 39.352 2.303 36.376 39.418     38.201
+0.45   0.02         1 39.352 2.303 36.376 39.418     38.201
+0.40   0.05         1 39.476 2.614 36.061 39.604     38.169
+0.40   1.00         0 39.245 2.338 36.216 39.340     38.076
+0.40   0.08         0 39.245 2.338 36.216 39.340     38.076
+
+Strategy comparison, full congress:
+                                           n_against_market   mean     sd    p10    p50    p90  exp_correct
+chalk (always Kalshi favourite)                         0.0  39.24   2.34  36.22  39.34  42.16       440.66
+model favourite (q > .5, no EV switching)               0.0  39.24   2.34  36.22  39.34  42.16       440.66
+pure EV max (no reasonableness limits)                442.0  75.07  17.19  55.15  73.26  96.83        52.05
+aggressive variant (tau=0.30, delta=0)                 16.0  43.56   4.53  37.68  43.54  49.44       437.02
+chosen rule (tau=0.4, delta=0.0)                        6.0  40.28   2.86  36.55  40.39  43.90       439.94
+
+Strategy comparison, senate track:
+                                           n_against_market  mean    sd   p10   p50    p90  exp_correct
+chalk (always Kalshi favourite)                         0.0  5.19  0.81  4.15  5.18   6.27        31.40
+model favourite (q > .5, no EV switching)               0.0  5.19  0.81  4.15  5.18   6.27        31.40
+pure EV max (no reasonableness limits)                 28.0  7.71  4.04  2.98  7.09  13.04         9.76
+aggressive variant (tau=0.30, delta=0)                  2.0  5.54  1.07  4.18  5.56   6.98        31.11
+chosen rule (tau=0.4, delta=0.0)                        2.0  5.54  1.07  4.18  5.56   6.98        31.11
+
+Against-market picks:
+    race_id        predicted_winner predicted_party  model_prob  kalshi_prob_pick  points_if_correct
+     SEN-IA              Josh Turek               D      0.4428              0.42              1.252
+     SEN-TX              Ken Paxton               R      0.4122              0.36              1.474
+HOUSE-FL-22             Casey Askar               R      0.4292              0.39              1.358
+HOUSE-MI-04           Bill Huizenga               R      0.4385              0.39              1.358
+HOUSE-MT-01             Sam Forstag               D      0.4791              0.45              1.152
+HOUSE-VA-01 Robert J. "Rob" Wittman               R      0.4388              0.39              1.358

@@ -1,0 +1,2 @@
+435 districts
+{'certified list': 307, 'placeholder': 70, 'incumbent': 58} {'certified list': 288, 'placeholder': 99, 'incumbent': 46, 'incumbent (candidacy not verified)': 2}

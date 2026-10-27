@@ -1,0 +1,83 @@
+cd,pres_margin_new,inc_2026,same_party,lines_changed,note
+TX-07,24.0,D,,1,Fletcher; Houston D sink
+TX-09,-15.0,open,,1,new GOP-drawn Houston-east seat (Trump+15); Mealer R vs Gutierrez D
+TX-15,-18.0,R,,1,De La Cruz R vs Pulido D; Trump+18
+TX-18,40.0,D,,1,safe D
+TX-23,-16.0,open,,1,Gonzales resigned; Herrera R nominee
+TX-28,-10.0,D,,1,Cuellar; Trump+10 under new lines
+TX-32,-13.0,open,,1,dismantled D seat -> GOP-leaning Dallas suburbs (estimate)
+TX-33,28.0,D,,1,safe D (open primary winner)
+TX-34,-10.0,D,,1,Gonzalez; Trump+10 under new lines
+TX-35,-10.0,open,,1,new San Antonio exurb seat (Trump+10/11); De La Cruz R vs Garcia D
+TX-37,35.0,D,,1,Casar; consolidated Austin seat
+CA-01,2.0,R,,1,Prop 50; Gallagher R (won special) vs McGuire D; D+10 registration (estimate)
+CA-03,10.0,D,,1,Prop 50; Harris double digits; Bera D vs Tucker R
+CA-05,-18.0,R,,1,McClintock; Prop 50 GOP vote sink (estimate)
+CA-06,8.0,I,,1,Prop 50; Kiley (now independent) vs Pan D; Harris+8
+CA-09,5.0,D,,1,Harder (estimate)
+CA-11,60.0,D,D,1,Wiener D vs Chan D (same-party top-two)
+CA-13,4.0,D,,1,Gray (estimate; Prop 50 shored up)
+CA-22,-1.0,R,,1,Valadao R vs Villegas D; made somewhat bluer (estimate)
+CA-27,8.0,D,,1,Whitesides (estimate)
+CA-40,-12.0,R,R,1,Calvert R vs Kim R (same-party top-two)
+CA-41,12.0,D,,1,Prop 50; Sanchez D vs Clemmons R; D+20 registration (estimate)
+CA-45,8.0,D,,1,Tran (estimate)
+CA-47,8.0,D,,1,Min (estimate)
+CA-48,3.0,open,,1,Prop 50; Desmond R vs von Wilpert D (estimate)
+FL-09,-18.0,D,,1,Soto D; new lines Trump 58-41
+FL-10,20.0,D,D,1,Frost unopposed (general cancelled)
+FL-14,-11.0,D,,1,Castor D; new lines Trump 55-44
+FL-20,40.0,D,,1,Wasserman Schultz moving in; safe D
+FL-22,-10.0,open,,1,new GOP-leaning open seat (Trump+10)
+FL-23,12.0,D,,1,Fort Lauderdale D seat (estimate)
+FL-24,40.0,D,,1,Wilson; safe D
+FL-25,-9.0,D,,1,Moskowitz D; new lines Trump+9
+NC-01,-11.0,D,,1,Davis D; redrawn ~Trump 55%
+NC-03,-20.0,R,,1,shifted R (estimate)
+NC-11,-10.0,open,,0,Edwards ended campaign; Ager D
+OH-01,-3.0,D,,1,Landsman D; Trump+3 new lines
+OH-09,-11.0,D,,1,Kaptur D; Trump+11 new lines
+OH-13,3.0,D,,1,Sykes D; Harris+3 new lines
+UT-01,22.0,open,,1,court map creates Salt Lake County D seat (district number may differ; estimate)
+UT-02,-25.0,R,,1,estimate
+UT-03,-25.0,R,,1,estimate
+UT-04,-25.0,R,,1,estimate
+TN-09,-12.0,open,,1,Memphis seat cracked; Cohen retired (estimate)
+LA-06,-20.0,open,,1,Callais: majority-Black seat eliminated (estimate)
+LA-05,-30.0,open,,0,Letlow running for Senate
+AL-02,-12.0,D,,1,2023 legislature map restored; Figures D (estimate)
+AL-01,-55.0,open,,0,Moore running for Senate
+AZ-01,-2.0,open,,0,Schweikert running for governor
+AZ-05,-20.0,open,,0,Biggs running for governor
+IA-02,,open,,0,Hinson running for Senate
+IA-04,,open,,0,Feenstra running for governor
+MI-10,,open,,0,James running for governor
+MI-11,,open,,0,Stevens ran for Senate
+MN-02,,open,,0,Craig ran for Senate
+NE-02,,open,,0,Bacon retired
+ME-02,,open,,0,Golden retired
+MT-01,,open,,0,Zinke not running
+KY-06,,open,,0,Barr running for Senate
+NY-21,,open,,0,Stefanik ran for governor
+NH-01,,open,,0,Pappas running for Senate
+GA-01,,open,,0,Carter ran for Senate
+GA-10,,open,,0,Collins running for Senate
+SC-01,,open,,0,Mace ran for governor
+SC-05,,open,,0,Norman ran for governor
+TN-06,,open,,0,Rose ran for governor
+WI-07,,open,,0,Tiffany running for governor
+OK-01,,open,,0,Hern running for Senate
+NY-12,,open,,0,Nadler retired
+FL-15,-20.0,R,,1,Lee R; new lines Trump 59-39
+FL-04,-12.0,R,,0,Bean R; districts 1-7 largely unchanged
+FL-01,,R,,0,largely unchanged
+FL-02,,R,,0,largely unchanged
+FL-03,,R,,0,largely unchanged
+FL-05,,R,,0,largely unchanged
+FL-06,,R,,0,largely unchanged
+FL-07,,R,,0,largely unchanged; Mills R vs Dalton D
+CA-04,,D,D,1,"same-party (D vs D) top-two, Ballot Brief certified list"
+CA-07,,D,D,1,"same-party (D vs D) top-two, Ballot Brief certified list"
+CA-12,,D,D,1,"same-party (D vs D) top-two, Ballot Brief certified list"
+CA-14,,D,D,1,"same-party (D vs D) top-two, Ballot Brief certified list"
+CA-29,,D,D,1,"same-party (D vs D) top-two, Ballot Brief certified list"

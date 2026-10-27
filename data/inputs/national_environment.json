@@ -1,0 +1,14 @@
+{
+  "as_of": "2026-10-26",
+  "generic_ballot_sources": {
+    "realclearpolling": 8.3,
+    "poliwave": 7.9,
+    "nbc_poll_of_polls": 9.0,
+    "note": "Nonpartisan/broad averages only; single polls, partisan-sponsored polls and aggregators with undisclosed methods excluded."
+  },
+  "generic_ballot_dem_margin": 8.4,
+  "house_popular_vote_2024_dem_margin": -2.6,
+  "national_error_sd_pts": 3.0,
+  "senate_poll_shared_error_sd_pts": 2.5,
+  "trump_approval_note": "~37-39% approve in nonpartisan averages (NBC 39, CNN Poll of Polls lower). Used only qualitatively; the generic ballot already carries it."
+}

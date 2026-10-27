@@ -1,0 +1,37 @@
+race_id dem_side_candidate            rep_candidate  mu_fund  poll_margin     mu  sigma  p_model_D  p_market_D
+ SEN-AL               Wess              Barry Moore   -20.86          NaN -20.86   8.38       0.01        0.02
+ SEN-AK       Mary Peltola             Dan Sullivan    -0.16         3.46   2.59   4.65       0.71        0.75
+ SEN-AR    Hallie Shoffner               Tom Cotton   -22.96          NaN -22.96   8.38       0.00        0.06
+ SEN-CO  John Hickenlooper       Republican nominee    22.64          NaN  22.64   8.38       1.00        0.99
+ SEN-DE        Chris Coons       Republican nominee    26.34          NaN  26.34   8.38       1.00        0.98
+ SEN-FL        Angie Nixon             Ashley Moody    -4.46        -4.00  -4.11   4.65       0.19        0.08
+ SEN-GA         Jon Ossoff             Mike Collins     9.44         8.00   8.35   4.65       0.96        0.95
+ SEN-ID      Todd Achilles                Jim Risch   -30.79          NaN -30.79   8.38       0.00        0.06
+ SEN-IL   Juliana Stratton                Don Tracy    20.54          NaN  20.54   8.38       0.99        0.98
+ SEN-IA         Josh Turek            Ashley Hinson    -3.56         0.60  -0.40   4.65       0.47        0.42
+ SEN-KS      Adam Hamilton           Roger Marshall    -8.46         0.40  -1.73   4.65       0.36        0.40
+ SEN-KY             Booker                Andy Barr   -20.86          NaN -20.86   8.38       0.01        0.04
+ SEN-LA        Jamie Davis             Julia Letlow   -12.36          NaN -12.36   8.38       0.07        0.07
+ SEN-ME       Troy Jackson            Susan Collins     5.69         2.10   2.96   4.65       0.74        0.60
+ SEN-MA          Ed Markey                   Deaton    36.84          NaN  36.84   8.38       1.00        0.97
+ SEN-MI     Abdul El-Sayed              Mike Rogers     8.24         2.60   3.96   4.65       0.80        0.69
+ SEN-MN     Peggy Flanagan           Michele Tafoya    13.84         3.00   5.61   4.65       0.89        0.88
+ SEN-MS        Scott Colom         Cindy Hyde-Smith   -15.26        -4.70  -9.28   5.83       0.06        0.12
+ SEN-MT        Seth Bodnar                Kurt Alme   -12.19       -12.40 -12.33   5.18       0.01        0.09
+ SEN-NE         Dan Osborn            Pete Ricketts    -7.89        -1.00  -3.21   5.18       0.27        0.25
+ SEN-NH       Chris Pappas           John E. Sununu    12.44         6.50   7.93   4.65       0.96        0.89
+ SEN-NJ        Cory Booker            Justin Murphy    17.54          NaN  17.54   8.38       0.98        0.97
+ SEN-NM      Ben Ray Lujan                   Marker    17.64          NaN  17.64   8.38       0.98        0.98
+ SEN-NC         Roy Cooper          Michael Whatley     9.34        10.10   9.92   4.65       0.98        0.96
+ SEN-OH      Sherrod Brown               Jon Husted     1.24         4.00   3.34   4.65       0.76        0.68
+ SEN-OK     N'Kiyla Thomas               Kevin Hern   -24.66          NaN -24.66   8.38       0.00        0.02
+ SEN-OR       Jeff Merkley       Republican nominee    25.94          NaN  25.94   8.38       1.00        0.99
+ SEN-RI          Jack Reed                    McKay    25.44          NaN  25.44   8.38       1.00        0.99
+ SEN-SC      Annie Andrews Darline Graham (Nordone)    -9.16        -1.60  -3.42   4.65       0.23        0.23
+ SEN-SD        Brian Bengs              Mike Rounds   -23.49          NaN -23.49   8.38       0.00        0.08
+ SEN-TN  Marquita Bradshaw             Bill Hagerty   -22.06          NaN -22.06   8.38       0.00        0.05
+ SEN-TX     James Talarico               Ken Paxton    -4.06         1.80   0.39   4.65       0.53        0.64
+ SEN-VA        Mark Warner                 Mizusawa    17.44          NaN  17.44   8.38       0.98        0.99
+ SEN-WV Democratic nominee     Shelley Moore Capito   -34.26          NaN -34.26   8.38       0.00        0.02
+ SEN-WY Democratic nominee          Harriet Hageman   -36.16          NaN -36.16   8.38       0.00        0.02
+Expected D-side Senate wins (of 35): 17.94

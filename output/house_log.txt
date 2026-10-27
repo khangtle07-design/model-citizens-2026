@@ -1,0 +1,16 @@
+{
+  "model_B": {
+    "intercept": -9.127388083455179e-05,
+    "pres": 0.990540476429725,
+    "inc": 0.040562455940971555
+  },
+  "swing26": 0.11,
+  "kalshi_seat_mean": 238.3,
+  "expected_D_seats_model": 236.48242316157376,
+  "expected_D_seats_market_proxy": 240.6402031703398
+}
+Flagged (unrated but fundamentals within 7 pts):
+district  pres_margin_used inc_2026   mu_A   mu_B  p_fund
+   AL-02             -12.0        D    NaN  0.018   0.572
+   FL-04             -12.0        R -0.052 -0.063   0.265
+   TN-09             -12.0     open    NaN -0.023   0.433

@@ -1,0 +1,3209 @@
+{
+ "CA-01": {
+  "D": [
+   "Mike McGuire"
+  ],
+  "R": [
+   "James Gallagher"
+  ],
+  "other": []
+ },
+ "CA-02": {
+  "D": [
+   "Jared Huffman"
+  ],
+  "R": [
+   "Robin Littau"
+  ],
+  "other": []
+ },
+ "CA-03": {
+  "D": [
+   "Ami Bera"
+  ],
+  "R": [
+   "Robb Tucker"
+  ],
+  "other": []
+ },
+ "CA-04": {
+  "D": [
+   "Eric Jones",
+   "Mike Thompson"
+  ],
+  "R": [],
+  "other": []
+ },
+ "CA-05": {
+  "D": [
+   "Michael Masuda"
+  ],
+  "R": [
+   "Tom McClintock"
+  ],
+  "other": []
+ },
+ "CA-06": {
+  "D": [
+   "Richard Pan"
+  ],
+  "R": [],
+  "other": [
+   [
+    "Kevin Kiley",
+    "No Party Preference"
+   ]
+  ]
+ },
+ "CA-07": {
+  "D": [
+   "Doris Matsui",
+   "Mai Vang"
+  ],
+  "R": [],
+  "other": []
+ },
+ "CA-08": {
+  "D": [
+   "John Garamendi"
+  ],
+  "R": [
+   "Rudy Recile"
+  ],
+  "other": []
+ },
+ "CA-09": {
+  "D": [
+   "Josh Harder"
+  ],
+  "R": [
+   "John McBride"
+  ],
+  "other": []
+ },
+ "CA-10": {
+  "D": [
+   "Mark DeSaulnier"
+  ],
+  "R": [
+   "Jeff Frese"
+  ],
+  "other": []
+ },
+ "CA-11": {
+  "D": [
+   "Connie Chan",
+   "Scott Wiener"
+  ],
+  "R": [],
+  "other": []
+ },
+ "CA-12": {
+  "D": [
+   "Jamie Joyce",
+   "Lateefah Simon"
+  ],
+  "R": [],
+  "other": []
+ },
+ "CA-22": {
+  "D": [
+   "Randy Villegas"
+  ],
+  "R": [
+   "David G. Valadao"
+  ],
+  "other": []
+ },
+ "CA-23": {
+  "D": [
+   "Tessa Lynn Hodge"
+  ],
+  "R": [
+   "Jay Obernolte"
+  ],
+  "other": []
+ },
+ "CA-24": {
+  "D": [
+   "Salud Carbajal"
+  ],
+  "R": [
+   "Bob Smith"
+  ],
+  "other": []
+ },
+ "CA-25": {
+  "D": [
+   "Raul Ruiz"
+  ],
+  "R": [
+   "Joe Males"
+  ],
+  "other": []
+ },
+ "CA-26": {
+  "D": [
+   "Jacqui Irwin"
+  ],
+  "R": [
+   "Sam Gallucci"
+  ],
+  "other": []
+ },
+ "CA-27": {
+  "D": [
+   "George Whitesides"
+  ],
+  "R": [
+   "Jason Gibbs"
+  ],
+  "other": []
+ },
+ "CA-28": {
+  "D": [
+   "Judy Chu"
+  ],
+  "R": [
+   "April A. Verlato"
+  ],
+  "other": []
+ },
+ "CA-29": {
+  "D": [
+   "Ang\u00e9lica Mar\u00eda Due\u00f1as",
+   "Luz Maria Rivas"
+  ],
+  "R": [],
+  "other": []
+ },
+ "CA-30": {
+  "D": [
+   "Laura Friedman"
+  ],
+  "R": [
+   "Scott Alan Meyers"
+  ],
+  "other": []
+ },
+ "CA-31": {
+  "D": [
+   "Gil Cisneros"
+  ],
+  "R": [
+   "Eric Ching"
+  ],
+  "other": []
+ },
+ "CA-32": {
+  "D": [
+   "Brad Sherman"
+  ],
+  "R": [
+   "Larry Thompson"
+  ],
+  "other": []
+ },
+ "CA-48": {
+  "D": [
+   "Marni von Wilpert"
+  ],
+  "R": [
+   "Jim Desmond"
+  ],
+  "other": []
+ },
+ "CA-49": {
+  "D": [
+   "Mike Levin"
+  ],
+  "R": [
+   "Armen Kurdian"
+  ],
+  "other": []
+ },
+ "CA-50": {
+  "D": [
+   "Scott Peters"
+  ],
+  "R": [
+   "Steve Cohen"
+  ],
+  "other": []
+ },
+ "CA-51": {
+  "D": [
+   "Sara Jacobs"
+  ],
+  "R": [
+   "Ricardo Cabrera"
+  ],
+  "other": []
+ },
+ "CA-52": {
+  "D": [
+   "Juan Vargas"
+  ],
+  "R": [
+   "Jeff Belle"
+  ],
+  "other": []
+ },
+ "FL-22": {
+  "D": [
+   "Pia Dandiya"
+  ],
+  "R": [
+   "Casey Askar"
+  ],
+  "other": []
+ },
+ "FL-23": {
+  "D": [
+   "Lois Frankel"
+  ],
+  "R": [
+   "Deborah Adeimy"
+  ],
+  "other": []
+ },
+ "FL-24": {
+  "D": [
+   "Oliver G. Gilbert III"
+  ],
+  "R": [
+   "Te Mayonna Brown"
+  ],
+  "other": [
+   [
+    "Andy Daro",
+    "No Party Affiliation"
+   ]
+  ]
+ },
+ "FL-25": {
+  "D": [
+   "Jared Moskowitz"
+  ],
+  "R": [
+   "Scott Singer"
+  ],
+  "other": [
+   [
+    "Peter Jassenoff",
+    "Libertarian"
+   ]
+  ]
+ },
+ "FL-26": {
+  "D": [
+   "Nicole Locklin"
+  ],
+  "R": [
+   "Mario Diaz-Balart"
+  ],
+  "other": [
+   [
+    "Deborah Ann Meidinger Hosey",
+    "No Party Affiliation"
+   ]
+  ]
+ },
+ "FL-27": {
+  "D": [
+   "Eliott Rodriguez"
+  ],
+  "R": [
+   "Maria Elvira Salazar"
+  ],
+  "other": []
+ },
+ "FL-28": {
+  "D": [
+   "Phil \"Felipe\" Ehr"
+  ],
+  "R": [
+   "Carlos A. Gimenez"
+  ],
+  "other": [
+   [
+    "Eddy Rojas",
+    "No Party Affiliation"
+   ]
+  ]
+ },
+ "CA-40": {
+  "D": [],
+  "R": [
+   "Ken Calvert",
+   "Young Kim"
+  ],
+  "other": []
+ },
+ "CA-41": {
+  "D": [
+   "Linda S\u00e1nchez"
+  ],
+  "R": [
+   "Mitch Clemmons"
+  ],
+  "other": []
+ },
+ "CA-42": {
+  "D": [
+   "Robert Garcia"
+  ],
+  "R": [
+   "Brian Burley"
+  ],
+  "other": []
+ },
+ "CA-43": {
+  "D": [
+   "Maxine Waters"
+  ],
+  "R": [
+   "Cristian Morales"
+  ],
+  "other": []
+ },
+ "CA-44": {
+  "D": [
+   "Nanette Diaz Barragan"
+  ],
+  "R": [
+   "Genevieve Angel"
+  ],
+  "other": []
+ },
+ "CA-45": {
+  "D": [
+   "Derek Tran"
+  ],
+  "R": [
+   "Chuong V. Vo"
+  ],
+  "other": []
+ },
+ "CA-46": {
+  "D": [
+   "Lou Correa"
+  ],
+  "R": [
+   "David Pan"
+  ],
+  "other": []
+ },
+ "CA-47": {
+  "D": [
+   "Dave Min"
+  ],
+  "R": [
+   "Jenny Rae Le Roux"
+  ],
+  "other": []
+ },
+ "CA-13": {
+  "D": [
+   "Adam Gray"
+  ],
+  "R": [
+   "Kevin Lincoln"
+  ],
+  "other": []
+ },
+ "CA-14": {
+  "D": [
+   "Melissa Hernandez",
+   "Aisha Wahab"
+  ],
+  "R": [],
+  "other": []
+ },
+ "CA-15": {
+  "D": [
+   "Kevin Mullin"
+  ],
+  "R": [
+   "Charles Hoelter"
+  ],
+  "other": []
+ },
+ "CA-16": {
+  "D": [
+   "Sam Liccardo"
+  ],
+  "R": [
+   "Peter Sundin Soul\u00e9"
+  ],
+  "other": []
+ },
+ "CA-17": {
+  "D": [
+   "Ro Khanna"
+  ],
+  "R": [
+   "Ritesh Tandon"
+  ],
+  "other": []
+ },
+ "CA-18": {
+  "D": [
+   "Zoe Lofgren"
+  ],
+  "R": [
+   "Shane Lewis"
+  ],
+  "other": []
+ },
+ "CA-19": {
+  "D": [
+   "Jimmy Panetta"
+  ],
+  "R": [
+   "Peter Coe Verbica"
+  ],
+  "other": []
+ },
+ "CA-20": {
+  "D": [
+   "Sandra Van Scotter"
+  ],
+  "R": [
+   "Vince Fong"
+  ],
+  "other": []
+ },
+ "CA-21": {
+  "D": [
+   "Jim Costa"
+  ],
+  "R": [
+   "Kyle Kirkland"
+  ],
+  "other": []
+ },
+ "FL-13": {
+  "D": [
+   "Leela Gray"
+  ],
+  "R": [
+   "Anna Paulina Luna"
+  ],
+  "other": [
+   [
+    "Tony D'Arrigo",
+    "No Party Affiliation"
+   ]
+  ]
+ },
+ "FL-14": {
+  "D": [
+   "Kathy Castor"
+  ],
+  "R": [
+   "Mike Beltran"
+  ],
+  "other": [
+   [
+    "Brian Lambert",
+    "Libertarian"
+   ]
+  ]
+ },
+ "FL-15": {
+  "D": [
+   "Robert People"
+  ],
+  "R": [
+   "Laurel Lee"
+  ],
+  "other": []
+ },
+ "FL-16": {
+  "D": [
+   "Kelly Kirschner"
+  ],
+  "R": [
+   "Sydney Gruters"
+  ],
+  "other": [
+   [
+    "Mark Davis",
+    "No Party Affiliation"
+   ]
+  ]
+ },
+ "FL-17": {
+  "D": [
+   "Matthew Montavon"
+  ],
+  "R": [
+   "Greg Steube"
+  ],
+  "other": [
+   [
+    "Michael J. Quirk",
+    "No Party Affiliation"
+   ]
+  ]
+ },
+ "FL-18": {
+  "D": [
+   "Curtis Gibson"
+  ],
+  "R": [
+   "Scott Franklin"
+  ],
+  "other": [
+   [
+    "Deva Simmons",
+    "No Party Affiliation"
+   ]
+  ]
+ },
+ "FL-19": {
+  "D": [
+   "Victor Arias"
+  ],
+  "R": [
+   "Jim Schwartzel"
+  ],
+  "other": [
+   [
+    "Seth Haskin",
+    "No Party Affiliation"
+   ]
+  ]
+ },
+ "FL-20": {
+  "D": [
+   "Debbie Wasserman Schultz"
+  ],
+  "R": [
+   "Brent Andersen"
+  ],
+  "other": [
+   [
+    "Kedner Maxime",
+    "Independent"
+   ]
+  ]
+ },
+ "GA-09": {
+  "D": [
+   "Caitlyn Gegen"
+  ],
+  "R": [
+   "Andrew Clyde"
+  ],
+  "other": []
+ },
+ "GA-10": {
+  "D": [
+   "Pamela 'Pam' Delancy"
+  ],
+  "R": [
+   "Houston Gaines"
+  ],
+  "other": []
+ },
+ "GA-11": {
+  "D": [
+   "Chris Harden"
+  ],
+  "R": [
+   "John Cowan"
+  ],
+  "other": []
+ },
+ "GA-12": {
+  "D": [
+   "Ceretta Smith"
+  ],
+  "R": [
+   "Rick W. Allen"
+  ],
+  "other": []
+ },
+ "GA-13": {
+  "D": [
+   "Jasmine Clark"
+  ],
+  "R": [
+   "Jonathan Chavez"
+  ],
+  "other": []
+ },
+ "GA-14": {
+  "D": [
+   "Shawn Harris"
+  ],
+  "R": [
+   "Clay Fuller"
+  ],
+  "other": []
+ },
+ "HI-01": {
+  "D": [
+   "Ed Case"
+  ],
+  "R": [
+   "Adriel C. Lam"
+  ],
+  "other": [
+   [
+    "Jordan S. Conley",
+    "Green"
+   ]
+  ]
+ },
+ "HI-02": {
+  "D": [
+   "Jill N. Tokuda"
+  ],
+  "R": [
+   "Brenton Awa"
+  ],
+  "other": []
+ },
+ "ID-01": {
+  "D": [
+   "Kaylee Peterson"
+  ],
+  "R": [
+   "Russ Fulcher"
+  ],
+  "other": [
+   [
+    "Sarah Zabel",
+    "Independent"
+   ],
+   [
+    "Brendan Gomez",
+    "Constitution"
+   ]
+  ]
+ },
+ "ID-02": {
+  "D": [
+   "Ellie Gilbreath"
+  ],
+  "R": [
+   "Mike Simpson"
+  ],
+  "other": [
+   [
+    "Tripp Hutchinson",
+    "Independent"
+   ],
+   [
+    "Emre Houser",
+    "Independent"
+   ]
+  ]
+ },
+ "TN-09": {
+  "D": [
+   "Justin J. Pearson"
+  ],
+  "R": [
+   "Brent Taylor"
+  ],
+  "other": [
+   [
+    "Dennis Clark",
+    "Independent"
+   ],
+   [
+    "Michelle Davis Head",
+    "Independent"
+   ]
+  ]
+ },
+ "TX-01": {
+  "D": [
+   "Yolanda R. Prince"
+  ],
+  "R": [
+   "Nathaniel Moran"
+  ],
+  "other": []
+ },
+ "TX-02": {
+  "D": [
+   "Shaun Finnie"
+  ],
+  "R": [
+   "Steve Toth"
+  ],
+  "other": []
+ },
+ "TX-03": {
+  "D": [
+   "Evan Hunt"
+  ],
+  "R": [
+   "Keith Self"
+  ],
+  "other": []
+ },
+ "TX-04": {
+  "D": [
+   "Jason Pearce"
+  ],
+  "R": [
+   "Pat Fallon"
+  ],
+  "other": []
+ },
+ "TX-05": {
+  "D": [
+   "Chelsey Hockett"
+  ],
+  "R": [
+   "Lance Gooden"
+  ],
+  "other": []
+ },
+ "TX-06": {
+  "D": [
+   "Danny Minton"
+  ],
+  "R": [
+   "Jake Ellzey"
+  ],
+  "other": []
+ },
+ "TX-07": {
+  "D": [
+   "Lizzie Pannill Fletcher"
+  ],
+  "R": [
+   "Alexander Hale"
+  ],
+  "other": [
+   [
+    "Espoir Ngabo",
+    "Green"
+   ]
+  ]
+ },
+ "TX-08": {
+  "D": [
+   "Laura Jones"
+  ],
+  "R": [
+   "Jessica Hart Steinmann"
+  ],
+  "other": []
+ },
+ "TX-09": {
+  "D": [
+   "Leticia Gutierrez"
+  ],
+  "R": [
+   "Alex Mealer"
+  ],
+  "other": []
+ },
+ "TX-10": {
+  "D": [
+   "Caitlin Rourk"
+  ],
+  "R": [
+   "Chris Gober"
+  ],
+  "other": []
+ },
+ "AL-01": {
+  "D": [
+   "Clyde Jones"
+  ],
+  "R": [
+   "Jerry Carl"
+  ],
+  "other": []
+ },
+ "AL-02": {
+  "D": [
+   "Shomari C. Figures"
+  ],
+  "R": [
+   "Rhett Marques"
+  ],
+  "other": []
+ },
+ "AL-03": {
+  "D": [
+   "Lee McInnis"
+  ],
+  "R": [
+   "Mike Rogers"
+  ],
+  "other": []
+ },
+ "AL-04": {
+  "D": [
+   "Amanda N. Pusczek"
+  ],
+  "R": [
+   "Robert B. Aderholt"
+  ],
+  "other": []
+ },
+ "AL-05": {
+  "D": [
+   "Andrew Sneed"
+  ],
+  "R": [
+   "Dale W. Strong"
+  ],
+  "other": []
+ },
+ "AL-06": {
+  "D": [
+   "Maurice Mercer"
+  ],
+  "R": [
+   "Gary Palmer"
+  ],
+  "other": []
+ },
+ "AL-07": {
+  "D": [
+   "Terri Sewell"
+  ],
+  "R": [
+   "Ammie Akin"
+  ],
+  "other": []
+ },
+ "AZ-07": {
+  "D": [
+   "Adelita Grijalva"
+  ],
+  "R": [
+   "Daniel Francis Butierez Sr."
+  ],
+  "other": []
+ },
+ "AZ-08": {
+  "D": [
+   "Bernadette Greene-Placentia"
+  ],
+  "R": [
+   "Abraham 'Abe' Hamadeh"
+  ],
+  "other": []
+ },
+ "AZ-09": {
+  "D": [
+   "Danielle 'Dani' Sterbinsky"
+  ],
+  "R": [
+   "Paul Gosar"
+  ],
+  "other": []
+ },
+ "AR-01": {
+  "D": [
+   "Terri Yarbrough Green"
+  ],
+  "R": [
+   "Rick Crawford"
+  ],
+  "other": [
+   [
+    "Steve G. Parsons",
+    "L"
+   ]
+  ]
+ },
+ "AR-02": {
+  "D": [
+   "Chris Jones"
+  ],
+  "R": [
+   "French Hill"
+  ],
+  "other": []
+ },
+ "AR-03": {
+  "D": [
+   "Robb Ryerse"
+  ],
+  "R": [
+   "Steve Womack"
+  ],
+  "other": [
+   [
+    "Bobby Wilson",
+    "L"
+   ]
+  ]
+ },
+ "AR-04": {
+  "D": [
+   "III"
+  ],
+  "R": [
+   "Bruce Westerman"
+  ],
+  "other": []
+ },
+ "MI-05": {
+  "D": [
+   "Christian Vukasovich"
+  ],
+  "R": [
+   "Tim Walberg"
+  ],
+  "other": []
+ },
+ "MI-06": {
+  "D": [
+   "Debbie Dingell"
+  ],
+  "R": [
+   "Heather Smiley"
+  ],
+  "other": []
+ },
+ "MI-07": {
+  "D": [
+   "William Lawrence"
+  ],
+  "R": [
+   "Tom Barrett"
+  ],
+  "other": []
+ },
+ "MI-08": {
+  "D": [
+   "Kristen McDonald Rivet"
+  ],
+  "R": [
+   "Thomas J. Smith"
+  ],
+  "other": []
+ },
+ "MI-09": {
+  "D": [
+   "Ray Pooley"
+  ],
+  "R": [
+   "Lisa McClain"
+  ],
+  "other": []
+ },
+ "MI-10": {
+  "D": [
+   "Christina Bertrand Hines"
+  ],
+  "R": [
+   "Michael Bouchard"
+  ],
+  "other": []
+ },
+ "MI-11": {
+  "D": [
+   "Jeremy Moss"
+  ],
+  "R": [
+   "Ethan Baker"
+  ],
+  "other": []
+ },
+ "MI-12": {
+  "D": [
+   "Rashida Tlaib"
+  ],
+  "R": [
+   "James D. Hooper"
+  ],
+  "other": []
+ },
+ "MI-13": {
+  "D": [
+   "Donavan McKinney"
+  ],
+  "R": [
+   "T.P. Nykoriak"
+  ],
+  "other": []
+ },
+ "MN-01": {
+  "D": [
+   "Jake Johnson"
+  ],
+  "R": [
+   "Brad Finstad"
+  ],
+  "other": []
+ },
+ "MN-02": {
+  "D": [
+   "Matt Little"
+  ],
+  "R": [
+   "Eric Pratt"
+  ],
+  "other": []
+ },
+ "MN-03": {
+  "D": [
+   "Kelly Morrison"
+  ],
+  "R": [
+   "Tyler Bass"
+  ],
+  "other": []
+ },
+ "MN-04": {
+  "D": [
+   "Betty McCollum"
+  ],
+  "R": [
+   "Paul Wikstrom"
+  ],
+  "other": []
+ },
+ "MN-05": {
+  "D": [
+   "Ilhan Omar"
+  ],
+  "R": [
+   "John Nagel"
+  ],
+  "other": [
+   [
+    "DeVelle L. Jackson",
+    "Independence-Alliance"
+   ]
+  ]
+ },
+ "MN-06": {
+  "D": [
+   "Doug Chapin"
+  ],
+  "R": [
+   "Tom Emmer"
+  ],
+  "other": []
+ },
+ "MN-07": {
+  "D": [
+   "Erik Osberg"
+  ],
+  "R": [
+   "Michelle Fischbach"
+  ],
+  "other": []
+ },
+ "MN-08": {
+  "D": [
+   "Trina Swanson"
+  ],
+  "R": [
+   "Pete Stauber"
+  ],
+  "other": []
+ },
+ "MS-01": {
+  "D": [
+   "Cliff Johnson"
+  ],
+  "R": [
+   "Trent Kelly"
+  ],
+  "other": [
+   [
+    "Johnny Baucom",
+    "L"
+   ]
+  ]
+ },
+ "CO-02": {
+  "D": [
+   "Joe Neguse"
+  ],
+  "R": [
+   "Kelley Anne Dennison"
+  ],
+  "other": [
+   [
+    "Gaylon Kent",
+    "Libertarian"
+   ]
+  ]
+ },
+ "CO-03": {
+  "D": [
+   "Dwayne L. Romero"
+  ],
+  "R": [
+   "Jeff Hurd"
+  ],
+  "other": [
+   [
+    "Cory Robertson",
+    "Libertarian"
+   ],
+   [
+    "Clifton Brown",
+    "Unaffiliated"
+   ]
+  ]
+ },
+ "CO-04": {
+  "D": [
+   "Eileen Laubacher"
+  ],
+  "R": [
+   "Lauren Boebert"
+  ],
+  "other": [
+   [
+    "Douglas Mangeris",
+    "Libertarian"
+   ]
+  ]
+ },
+ "CO-05": {
+  "D": [
+   "Jessica Killin"
+  ],
+  "R": [
+   "Jeff Crank"
+  ],
+  "other": [
+   [
+    "Christopher Mitchell",
+    "American Constitution Party"
+   ],
+   [
+    "Mark \"Marky Jr\" Elworth",
+    "Libertarian"
+   ]
+  ]
+ },
+ "CO-06": {
+  "D": [
+   "Jason Crow"
+  ],
+  "R": [
+   "Jason Clark"
+  ],
+  "other": [
+   [
+    "Patty McMahon",
+    "Libertarian"
+   ],
+   [
+    "Meredith Ryan",
+    "Unity Party"
+   ]
+  ]
+ },
+ "CO-07": {
+  "D": [
+   "Brittany Pettersen"
+  ],
+  "R": [
+   "Tim Bennett"
+  ],
+  "other": [
+   [
+    "Susan Hall",
+    "Unity Party"
+   ],
+   [
+    "Lawrence Kyle Clark",
+    "American Constitution Party"
+   ]
+  ]
+ },
+ "CO-08": {
+  "D": [
+   "Manny Rutinel"
+  ],
+  "R": [
+   "Gabe Evans"
+  ],
+  "other": [
+   [
+    "Dave Wood",
+    "Libertarian"
+   ]
+  ]
+ },
+ "MO-01": {
+  "D": [
+   "Wesley Bell"
+  ],
+  "R": [
+   "Paul Berry III"
+  ],
+  "other": [
+   [
+    "Tom Schmitz",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NY-21": {
+  "D": [
+   "Blake Gendebien"
+  ],
+  "R": [
+   "Anthony Constantino"
+  ],
+  "other": []
+ },
+ "NY-22": {
+  "D": [
+   "John W. Mannion"
+  ],
+  "R": [
+   "Kailee Marie Buller"
+  ],
+  "other": []
+ },
+ "NY-23": {
+  "D": [
+   "Aaron Gies"
+  ],
+  "R": [
+   "Nicholas A. Langworthy"
+  ],
+  "other": []
+ },
+ "NY-24": {
+  "D": [
+   "Alissa J. Ellman"
+  ],
+  "R": [
+   "Claudia Tenney"
+  ],
+  "other": []
+ },
+ "NY-25": {
+  "D": [
+   "Joseph D. Morelle"
+  ],
+  "R": [
+   "Virginia E. McIntyre"
+  ],
+  "other": []
+ },
+ "NY-26": {
+  "D": [
+   "Timothy M. Kennedy"
+  ],
+  "R": [
+   "Dennis E. Hannon"
+  ],
+  "other": []
+ },
+ "NC-01": {
+  "D": [
+   "Don Davis"
+  ],
+  "R": [
+   "Laurie Buckhout"
+  ],
+  "other": [
+   [
+    "Tom Bailey",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NC-02": {
+  "D": [
+   "Deborah K. Ross"
+  ],
+  "R": [
+   "Eugene F. Douglass"
+  ],
+  "other": [
+   [
+    "Matthew Laszacs",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NC-03": {
+  "D": [
+   "Raymond Smith"
+  ],
+  "R": [
+   "Greg Murphy"
+  ],
+  "other": [
+   [
+    "Daniel Cavender",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NC-04": {
+  "D": [
+   "Valerie P. Foushee"
+  ],
+  "R": [
+   "Mahesh 'Max' Ganorkar"
+  ],
+  "other": [
+   [
+    "Guy Meilleur",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NC-07": {
+  "D": [
+   "Kimberly Hardy"
+  ],
+  "R": [
+   "David Rouzer"
+  ],
+  "other": [
+   [
+    "Maad Abu-Ghazalah",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NC-08": {
+  "D": [
+   "Colby Watson"
+  ],
+  "R": [
+   "Mark Harris"
+  ],
+  "other": [
+   [
+    "Bo Whitehead",
+    "Green"
+   ]
+  ]
+ },
+ "NC-09": {
+  "D": [
+   "Richard N. Ojeda II"
+  ],
+  "R": [
+   "Richard Hudson"
+  ],
+  "other": []
+ },
+ "NC-10": {
+  "D": [
+   "Ashley Bell"
+  ],
+  "R": [
+   "Pat Harrigan"
+  ],
+  "other": [
+   [
+    "Steven Feldman",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NC-11": {
+  "D": [
+   "Jamie Ager"
+  ],
+  "R": [
+   "Jennifer Capps Balkcom"
+  ],
+  "other": [
+   [
+    "Travis Groo",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NC-12": {
+  "D": [
+   "Alma S. Adams"
+  ],
+  "R": [
+   "Jack Codiga"
+  ],
+  "other": []
+ },
+ "NC-13": {
+  "D": [
+   "Paul Barringer"
+  ],
+  "R": [
+   "Brad Knott"
+  ],
+  "other": [
+   [
+    "Steven Swinton",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NC-14": {
+  "D": [
+   "Lakesha Womack"
+  ],
+  "R": [
+   "Tim Moore"
+  ],
+  "other": []
+ },
+ "ND-01": {
+  "D": [
+   "Trygve Hammer"
+  ],
+  "R": [
+   "Julie Fedorchak"
+  ],
+  "other": [
+   [
+    "Helene Neville",
+    "Independent"
+   ],
+   [
+    "Charles Tuttle",
+    "Independent"
+   ]
+  ]
+ },
+ "OH-01": {
+  "D": [
+   "Greg Landsman"
+  ],
+  "R": [
+   "Eric Conroy"
+  ],
+  "other": [
+   [
+    "Nathan Weise",
+    "Libertarian"
+   ]
+  ]
+ },
+ "OH-11": {
+  "D": [
+   "Shontel M. Brown"
+  ],
+  "R": [
+   "Mike Kirchner"
+  ],
+  "other": []
+ },
+ "OH-12": {
+  "D": [
+   "Jerrad Christian"
+  ],
+  "R": [
+   "Troy Balderson"
+  ],
+  "other": []
+ },
+ "OH-13": {
+  "D": [
+   "Emilia Sykes"
+  ],
+  "R": [
+   "Carey Coleman"
+  ],
+  "other": [
+   [
+    "Sandeep Dixit",
+    "Independent"
+   ]
+  ]
+ },
+ "OH-14": {
+  "D": [
+   "Maria Jukic"
+  ],
+  "R": [
+   "David P. Joyce"
+  ],
+  "other": []
+ },
+ "OH-15": {
+  "D": [
+   "Don Leonard"
+  ],
+  "R": [
+   "Mike Carey"
+  ],
+  "other": [
+   [
+    "Brennan Barrington",
+    "Libertarian"
+   ],
+   [
+    "Gary Josephson",
+    "Independent"
+   ]
+  ]
+ },
+ "OK-01": {
+  "D": [
+   "John Croisant"
+  ],
+  "R": [
+   "Mark Tedford"
+  ],
+  "other": []
+ },
+ "OK-02": {
+  "D": [
+   "Brandon Wade"
+  ],
+  "R": [
+   "Josh Brecheen"
+  ],
+  "other": [
+   [
+    "Ronnie Hopkins",
+    "Independent"
+   ]
+  ]
+ },
+ "OK-03": {
+  "D": [
+   "Suzie Byrd"
+  ],
+  "R": [
+   "Frank D. Lucas"
+  ],
+  "other": []
+ },
+ "OK-04": {
+  "D": [
+   "Mitchell Jacob"
+  ],
+  "R": [
+   "Tom Cole"
+  ],
+  "other": [
+   [
+    "Rocco Bonacci",
+    "Independent"
+   ]
+  ]
+ },
+ "OK-05": {
+  "D": [
+   "Jena Nelson"
+  ],
+  "R": [
+   "Stephanie Bice"
+  ],
+  "other": []
+ },
+ "UT-03": {
+  "D": [],
+  "R": [
+   "Celeste Maloy"
+  ],
+  "other": [
+   [
+    "Cassie Easley",
+    "Constitution Party"
+   ]
+  ]
+ },
+ "FL-01": {
+  "D": [
+   "Gay Valimont"
+  ],
+  "R": [
+   "Jimmy Patronis"
+  ],
+  "other": [
+   [
+    "Tyler L. Davis",
+    "No Party Affiliation"
+   ]
+  ]
+ },
+ "FL-02": {
+  "D": [
+   "Amanda Marie Green"
+  ],
+  "R": [
+   "Austin Rogers"
+  ],
+  "other": []
+ },
+ "FL-03": {
+  "D": [
+   "Seth Harp"
+  ],
+  "R": [
+   "Kat Cammack"
+  ],
+  "other": [
+   [
+    "Mike Klein",
+    "No Party Affiliation"
+   ]
+  ]
+ },
+ "FL-04": {
+  "D": [
+   "LaShonda \"L.J.\" Holloway"
+  ],
+  "R": [
+   "Aaron Bean"
+  ],
+  "other": [
+   [
+    "Todd Schaefer",
+    "No Party Affiliation"
+   ],
+   [
+    "Mike Sell",
+    "Florida Forward"
+   ]
+  ]
+ },
+ "FL-05": {
+  "D": [
+   "Rachel Grage"
+  ],
+  "R": [
+   "John H. Rutherford"
+  ],
+  "other": []
+ },
+ "FL-06": {
+  "D": [
+   "Eric Yonce"
+  ],
+  "R": [
+   "Randy Fine"
+  ],
+  "other": [
+   [
+    "Michael Gist",
+    "No Party Affiliation"
+   ],
+   [
+    "Andrew Parrott",
+    "Libertarian"
+   ]
+  ]
+ },
+ "FL-07": {
+  "D": [
+   "Bale Dalton"
+  ],
+  "R": [
+   "Ryan Elijah"
+  ],
+  "other": [
+   [
+    "Christopher Dennison",
+    "Libertarian"
+   ]
+  ]
+ },
+ "FL-08": {
+  "D": [
+   "Jennifer Jenkins"
+  ],
+  "R": [
+   "Mike Haridopolos"
+  ],
+  "other": []
+ },
+ "FL-09": {
+  "D": [
+   "Darren Soto"
+  ],
+  "R": [
+   "Dan Green"
+  ],
+  "other": []
+ },
+ "NJ-01": {
+  "D": [
+   "Donald Norcross"
+  ],
+  "R": [
+   "Damon Galdo"
+  ],
+  "other": []
+ },
+ "NJ-02": {
+  "D": [
+   "Zack Mullock"
+  ],
+  "R": [
+   "Jeff Van Drew"
+  ],
+  "other": [
+   [
+    "Ramon Mora Jr.",
+    "Independent"
+   ]
+  ]
+ },
+ "NJ-03": {
+  "D": [
+   "Herb Conaway"
+  ],
+  "R": [
+   "Michael P. McGuire"
+  ],
+  "other": [
+   [
+    "Ryan Michael Kelly",
+    "Independent"
+   ],
+   [
+    "Steven Welzer",
+    "Green"
+   ]
+  ]
+ },
+ "NJ-04": {
+  "D": [
+   "Rachel Peace"
+  ],
+  "R": [
+   "Christopher H. Smith"
+  ],
+  "other": []
+ },
+ "NJ-05": {
+  "D": [
+   "Josh Gottheimer"
+  ],
+  "R": [
+   "Sean Kirrane"
+  ],
+  "other": [
+   [
+    "Adam Rueda",
+    "Independent"
+   ]
+  ]
+ },
+ "NJ-06": {
+  "D": [
+   "Frank Pallone Jr."
+  ],
+  "R": [
+   "Hillary Herzig"
+  ],
+  "other": []
+ },
+ "NJ-07": {
+  "D": [
+   "Rebecca Bennett"
+  ],
+  "R": [
+   "Thomas H. Kean Jr."
+  ],
+  "other": [
+   [
+    "Seamus Patrick O'Toole",
+    "Independent"
+   ]
+  ]
+ },
+ "NJ-08": {
+  "D": [
+   "Rob Menendez"
+  ],
+  "R": [],
+  "other": [
+   [
+    "Aristotle Eliopoulos",
+    "Independent"
+   ],
+   [
+    "Craig Honts",
+    "Socialist Workers Party"
+   ],
+   [
+    "Da'Shone Hughey",
+    "Independent"
+   ]
+  ]
+ },
+ "NJ-09": {
+  "D": [
+   "Nelida Pou"
+  ],
+  "R": [
+   "Rosie Pino"
+  ],
+  "other": [
+   [
+    "Terrisa Bukovinac",
+    "Independent"
+   ]
+  ]
+ },
+ "PA-01": {
+  "D": [
+   "Bob Harvie"
+  ],
+  "R": [
+   "Brian Fitzpatrick"
+  ],
+  "other": []
+ },
+ "PA-02": {
+  "D": [
+   "Brendan F. Boyle"
+  ],
+  "R": [
+   "Jessica Arriaga"
+  ],
+  "other": []
+ },
+ "PA-03": {
+  "D": [
+   "Chris Rabb"
+  ],
+  "R": [],
+  "other": [
+   [
+    "Dennis Mahoney",
+    "The Independent Party"
+   ]
+  ]
+ },
+ "PA-04": {
+  "D": [
+   "Madeleine Dean"
+  ],
+  "R": [
+   "Aurora Stuski"
+  ],
+  "other": []
+ },
+ "PA-05": {
+  "D": [
+   "Mary Gay Scanlon"
+  ],
+  "R": [
+   "Nick Manganaro"
+  ],
+  "other": []
+ },
+ "PA-06": {
+  "D": [
+   "Chrissy Houlahan"
+  ],
+  "R": [
+   "Marty Young"
+  ],
+  "other": []
+ },
+ "PA-07": {
+  "D": [
+   "Bob Brooks"
+  ],
+  "R": [
+   "Ryan Mackenzie"
+  ],
+  "other": []
+ },
+ "PA-08": {
+  "D": [
+   "Paige Cognetti"
+  ],
+  "R": [
+   "Rob Bresnahan Jr."
+  ],
+  "other": []
+ },
+ "PA-09": {
+  "D": [
+   "Rachel Wallace"
+  ],
+  "R": [
+   "Dan Meuser"
+  ],
+  "other": []
+ },
+ "PA-10": {
+  "D": [
+   "Janelle Stelson"
+  ],
+  "R": [
+   "Scott Perry"
+  ],
+  "other": []
+ },
+ "PA-11": {
+  "D": [
+   "Nancy Mannion"
+  ],
+  "R": [
+   "Lloyd K. Smucker"
+  ],
+  "other": []
+ },
+ "GA-01": {
+  "D": [
+   "Amanda Hollowell"
+  ],
+  "R": [
+   "James 'Jim' Kingston"
+  ],
+  "other": []
+ },
+ "GA-02": {
+  "D": [
+   "Sanford Bishop"
+  ],
+  "R": [
+   "Matt Day"
+  ],
+  "other": []
+ },
+ "GA-03": {
+  "D": [
+   "Maura Keller"
+  ],
+  "R": [
+   "Brian Jack"
+  ],
+  "other": []
+ },
+ "GA-04": {
+  "D": [
+   "Henry 'Hank' Johnson Jr."
+  ],
+  "R": [
+   "Jim Duffie"
+  ],
+  "other": []
+ },
+ "GA-05": {
+  "D": [
+   "Nikema Williams"
+  ],
+  "R": [
+   "John 'BONGO' Salvesen"
+  ],
+  "other": []
+ },
+ "GA-06": {
+  "D": [
+   "Lucy McBath"
+  ],
+  "R": [
+   "Kevin E. Martin"
+  ],
+  "other": []
+ },
+ "GA-07": {
+  "D": [
+   "Tony Kozycki"
+  ],
+  "R": [
+   "Rich McCormick"
+  ],
+  "other": []
+ },
+ "GA-08": {
+  "D": [
+   "Kelly Esti"
+  ],
+  "R": [
+   "Austin Scott"
+  ],
+  "other": []
+ },
+ "VA-01": {
+  "D": [
+   "Shannon L. Taylor"
+  ],
+  "R": [
+   "Robert J. \"Rob\" Wittman"
+  ],
+  "other": []
+ },
+ "VA-02": {
+  "D": [
+   "Elaine G. Luria"
+  ],
+  "R": [
+   "Jen A. Kiggans"
+  ],
+  "other": []
+ },
+ "VA-03": {
+  "D": [
+   "Robert C. \"Bobby\" Scott"
+  ],
+  "R": [
+   "Jr."
+  ],
+  "other": []
+ },
+ "VA-04": {
+  "D": [
+   "Jennifer L. McClellan"
+  ],
+  "R": [
+   "Jr."
+  ],
+  "other": []
+ },
+ "VA-05": {
+  "D": [
+   "Tom S. P. Perriello"
+  ],
+  "R": [
+   "John J. McGuire III"
+  ],
+  "other": []
+ },
+ "VA-06": {
+  "D": [
+   "Beth A. Macy"
+  ],
+  "R": [
+   "Ben L. Cline"
+  ],
+  "other": []
+ },
+ "VA-07": {
+  "D": [
+   "Eugene S. Vindman"
+  ],
+  "R": [
+   "Doug A. Ollivant"
+  ],
+  "other": []
+ },
+ "VA-09": {
+  "D": [
+   "Joy A. Powers"
+  ],
+  "R": [
+   "H. Morgan Griffith"
+  ],
+  "other": []
+ },
+ "VA-11": {
+  "D": [
+   "James R. Walkinshaw"
+  ],
+  "R": [
+   "Arthur G. Purves"
+  ],
+  "other": []
+ },
+ "VA-08": {
+  "D": [
+   "Donald \"Don\" S. Beyer Jr."
+  ],
+  "R": [
+   "Anthony \"Tony\" A. Sabio"
+  ],
+  "other": []
+ },
+ "IL-07": {
+  "D": [
+   "La Shawn K. Ford"
+  ],
+  "R": [
+   "Chad Koppie"
+  ],
+  "other": []
+ },
+ "IL-08": {
+  "D": [
+   "Melissa L. Bean"
+  ],
+  "R": [
+   "Jennifer Davis"
+  ],
+  "other": []
+ },
+ "IL-09": {
+  "D": [
+   "Daniel Biss"
+  ],
+  "R": [
+   "John Elleson"
+  ],
+  "other": []
+ },
+ "IL-10": {
+  "D": [
+   "Brad Schneider"
+  ],
+  "R": [
+   "Carl Lambrecht"
+  ],
+  "other": []
+ },
+ "IL-11": {
+  "D": [
+   "Bill Foster"
+  ],
+  "R": [
+   "Jeff Walter"
+  ],
+  "other": []
+ },
+ "IL-12": {
+  "D": [
+   "Julie Fortier"
+  ],
+  "R": [
+   "Mike Bost"
+  ],
+  "other": []
+ },
+ "IL-13": {
+  "D": [
+   "Nikki Budzinski"
+  ],
+  "R": [
+   "Jeff Wilson"
+  ],
+  "other": []
+ },
+ "IL-14": {
+  "D": [
+   "Lauren Underwood"
+  ],
+  "R": [
+   "James T. 'Jim' Marter"
+  ],
+  "other": []
+ },
+ "IL-15": {
+  "D": [
+   "Jennifer Todd"
+  ],
+  "R": [
+   "Mary E. Miller"
+  ],
+  "other": []
+ },
+ "IL-16": {
+  "D": [
+   "Paul Nolley"
+  ],
+  "R": [
+   "Darin LaHood"
+  ],
+  "other": []
+ },
+ "IL-17": {
+  "D": [
+   "Eric Sorensen"
+  ],
+  "R": [
+   "Dillan S. Vancil"
+  ],
+  "other": []
+ },
+ "WI-03": {
+  "D": [
+   "Rebecca Cooke"
+  ],
+  "R": [
+   "Derrick Van Orden"
+  ],
+  "other": [
+   [
+    "Alexander Valiensi Kent",
+    "Independent"
+   ],
+   [
+    "Rustin Provance",
+    "Independent"
+   ]
+  ]
+ },
+ "WI-04": {
+  "D": [
+   "Gwen Moore"
+  ],
+  "R": [
+   "Tim Rogers"
+  ],
+  "other": [
+   [
+    "Arthur Burks",
+    "Independent"
+   ]
+  ]
+ },
+ "WI-05": {
+  "D": [
+   "Andrew Beck"
+  ],
+  "R": [
+   "Scott Fitzgerald"
+  ],
+  "other": []
+ },
+ "WI-06": {
+  "D": [
+   "Brad Smith"
+  ],
+  "R": [
+   "Glenn Grothman"
+  ],
+  "other": []
+ },
+ "WI-07": {
+  "D": [
+   "Fred Clark"
+  ],
+  "R": [
+   "Michael Alfonso"
+  ],
+  "other": []
+ },
+ "WI-08": {
+  "D": [
+   "Rick Crosson"
+  ],
+  "R": [
+   "Tony Wied"
+  ],
+  "other": []
+ },
+ "WY-01": {
+  "D": [
+   "Lisa Kinney"
+  ],
+  "R": [
+   "Chuck Gray"
+  ],
+  "other": [
+   [
+    "Shawn Johnson",
+    "Libertarian"
+   ],
+   [
+    "Jeffrey Haggit",
+    "Constitution"
+   ]
+  ]
+ },
+ "SC-01": {
+  "D": [
+   "Nancy Lacore"
+  ],
+  "R": [
+   "Jenny Costa Honeycutt"
+  ],
+  "other": []
+ },
+ "SC-02": {
+  "D": [
+   "Zyon Khalifa"
+  ],
+  "R": [
+   "Joe Wilson"
+  ],
+  "other": []
+ },
+ "SC-03": {
+  "D": [
+   "Eunice Lehmacher"
+  ],
+  "R": [
+   "Sheri Biggs"
+  ],
+  "other": []
+ },
+ "SC-04": {
+  "D": [
+   "Courtney McClain"
+  ],
+  "R": [
+   "William Timmons"
+  ],
+  "other": []
+ },
+ "SC-05": {
+  "D": [
+   "Mallory Dittmer"
+  ],
+  "R": [
+   "Wes Climer"
+  ],
+  "other": []
+ },
+ "SC-06": {
+  "D": [
+   "James E Jim Clyburn"
+  ],
+  "R": [
+   "John Peterson"
+  ],
+  "other": []
+ },
+ "SC-07": {
+  "D": [
+   "John Gregory Vincent"
+  ],
+  "R": [
+   "Russell Fry"
+  ],
+  "other": []
+ },
+ "KY-01": {
+  "D": [
+   "John \"Drew\" Williams"
+  ],
+  "R": [
+   "James R. Comer"
+  ],
+  "other": []
+ },
+ "KY-02": {
+  "D": [
+   "Megan Wingfield"
+  ],
+  "R": [
+   "S. Brett Guthrie"
+  ],
+  "other": []
+ },
+ "KY-03": {
+  "D": [
+   "Morgan McGarvey"
+  ],
+  "R": [
+   "Maria Teresa Rodriguez"
+  ],
+  "other": []
+ },
+ "KY-04": {
+  "D": [
+   "Melissa Claire Strange"
+  ],
+  "R": [
+   "Ed Gallrein"
+  ],
+  "other": []
+ },
+ "KY-05": {
+  "D": [
+   "Ned Pillersdorf"
+  ],
+  "R": [
+   "Hal Rogers"
+  ],
+  "other": []
+ },
+ "KY-06": {
+  "D": [
+   "Zach Dembo"
+  ],
+  "R": [
+   "Ralph Alvarado"
+  ],
+  "other": []
+ },
+ "LA-01": {
+  "D": [
+   "Lauren Jewett"
+  ],
+  "R": [
+   "Steve Scalise"
+  ],
+  "other": []
+ },
+ "LA-02": {
+  "D": [
+   "Troy A. Carter Sr."
+  ],
+  "R": [],
+  "other": []
+ },
+ "AK-01": {
+  "D": [
+   "Eric Hafner"
+  ],
+  "R": [
+   "Nick Begich"
+  ],
+  "other": []
+ },
+ "AZ-01": {
+  "D": [
+   "Amish Shah"
+  ],
+  "R": [
+   "Jay Feely"
+  ],
+  "other": []
+ },
+ "AZ-05": {
+  "D": [
+   "Elizabeth Lee"
+  ],
+  "R": [
+   "Mark Lamb"
+  ],
+  "other": []
+ },
+ "AZ-06": {
+  "D": [
+   "JoAnna Mendoza"
+  ],
+  "R": [
+   "Juan Ciscomani"
+  ],
+  "other": []
+ },
+ "IA-01": {
+  "D": [
+   "Christina Bohannan"
+  ],
+  "R": [
+   "Mariannette Miller-Meeks"
+  ],
+  "other": []
+ },
+ "IA-02": {
+  "D": [
+   "Lindsay James"
+  ],
+  "R": [
+   "Joe Mitchell"
+  ],
+  "other": []
+ },
+ "IA-03": {
+  "D": [
+   "Sarah Trone Garriott"
+  ],
+  "R": [
+   "Zach Nunn"
+  ],
+  "other": []
+ },
+ "IA-04": {
+  "D": [
+   "Dave Dawson"
+  ],
+  "R": [
+   "Chris McGowan"
+  ],
+  "other": []
+ },
+ "MT-01": {
+  "D": [
+   "Sam Forstag"
+  ],
+  "R": [
+   "Aaron Flint"
+  ],
+  "other": []
+ },
+ "TX-11": {
+  "D": [
+   "Claire Reynolds"
+  ],
+  "R": [
+   "August Pfluger"
+  ],
+  "other": []
+ },
+ "TX-15": {
+  "D": [
+   "Bobby Pulido"
+  ],
+  "R": [
+   "Monica De La Cruz"
+  ],
+  "other": []
+ },
+ "TX-23": {
+  "D": [
+   "Katy Padilla Stout"
+  ],
+  "R": [
+   "Brandon Herrera"
+  ],
+  "other": []
+ },
+ "TX-28": {
+  "D": [
+   "Henry Cuellar"
+  ],
+  "R": [
+   "Tano Tijerina"
+  ],
+  "other": []
+ },
+ "TX-33": {
+  "D": [
+   "Colin Allred"
+  ],
+  "R": [
+   "Patrick Gillespie"
+  ],
+  "other": []
+ },
+ "TX-34": {
+  "D": [
+   "Vicente Gonzalez"
+  ],
+  "R": [
+   "Eric Flores"
+  ],
+  "other": []
+ },
+ "TX-35": {
+  "D": [
+   "Johnny Garcia"
+  ],
+  "R": [
+   "Carlos De La Cruz"
+  ],
+  "other": []
+ },
+ "TX-18": {
+  "D": [
+   "Christian Menefee"
+  ],
+  "R": [],
+  "other": []
+ },
+ "TX-37": {
+  "D": [
+   "Greg Casar"
+  ],
+  "R": [],
+  "other": []
+ },
+ "TX-16": {
+  "D": [
+   "Veronica Escobar"
+  ],
+  "R": [],
+  "other": []
+ },
+ "TX-20": {
+  "D": [
+   "Joaquin Castro"
+  ],
+  "R": [],
+  "other": []
+ },
+ "NY-10": {
+  "D": [
+   "Brad Lander"
+  ],
+  "R": [],
+  "other": []
+ },
+ "NY-13": {
+  "D": [
+   "Darializa Avila Chevalier"
+  ],
+  "R": [],
+  "other": []
+ },
+ "NY-17": {
+  "D": [
+   "Cait Conley"
+  ],
+  "R": [
+   "Michael Lawler"
+  ],
+  "other": []
+ },
+ "CT-01": {
+  "D": [
+   "Luke Bronin"
+  ],
+  "R": [],
+  "other": []
+ },
+ "CO-01": {
+  "D": [
+   "Melat Kiros"
+  ],
+  "R": [],
+  "other": []
+ },
+ "NJ-12": {
+  "D": [
+   "Adam Hamawy"
+  ],
+  "R": [
+   "Gregg Mele"
+  ],
+  "other": []
+ },
+ "NM-01": {
+  "D": [
+   "Melanie Ann Stansbury"
+  ],
+  "R": [
+   "Ndidiamaka Ekwua Charlene Okpareke"
+  ],
+  "other": []
+ },
+ "NM-02": {
+  "D": [
+   "Gabriel Vasquez"
+  ],
+  "R": [
+   "Gregory G. Cunningham"
+  ],
+  "other": []
+ },
+ "NM-03": {
+  "D": [
+   "Teresa Leger Fernandez"
+  ],
+  "R": [
+   "Martin Zamora"
+  ],
+  "other": []
+ },
+ "NY-01": {
+  "D": [
+   "Christopher J. Gallant"
+  ],
+  "R": [
+   "Nicholas J. LaLota"
+  ],
+  "other": []
+ },
+ "NY-02": {
+  "D": [
+   "Patrick Halpin"
+  ],
+  "R": [
+   "Andrew R. Garbarino"
+  ],
+  "other": []
+ },
+ "NY-03": {
+  "D": [
+   "Thomas R. Suozzi"
+  ],
+  "R": [
+   "Michael J. LiPetri Jr"
+  ],
+  "other": []
+ },
+ "NY-04": {
+  "D": [
+   "Laura A. Gillen"
+  ],
+  "R": [
+   "Jeanine C. Driscoll"
+  ],
+  "other": [
+   [
+    "Blay Tarnoff",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NY-05": {
+  "D": [
+   "Gregory W. Meeks"
+  ],
+  "R": [
+   "George Marsh"
+  ],
+  "other": []
+ },
+ "NY-06": {
+  "D": [
+   "Grace Meng"
+  ],
+  "R": [
+   "Joseph Chou"
+  ],
+  "other": []
+ },
+ "NY-07": {
+  "D": [
+   "Claire Valdez"
+  ],
+  "R": [
+   "Melvin Rivera"
+  ],
+  "other": []
+ },
+ "NH-01": {
+  "D": [
+   "Stefany Shaheen"
+  ],
+  "R": [
+   "Anthony DiLorenzo"
+  ],
+  "other": []
+ },
+ "NH-02": {
+  "D": [
+   "Maggie Goodlander"
+  ],
+  "R": [
+   "Lily Tang Williams"
+  ],
+  "other": []
+ },
+ "NE-01": {
+  "D": [
+   "Chris Backemeyer"
+  ],
+  "R": [
+   "Mike Flood"
+  ],
+  "other": [
+   [
+    "Nik Sandman",
+    "L"
+   ],
+   [
+    "Dan Hartong",
+    "America First"
+   ]
+  ]
+ },
+ "OH-02": {
+  "D": [
+   "Jen Mazzuckelli"
+  ],
+  "R": [
+   "David J. Taylor"
+  ],
+  "other": []
+ },
+ "OH-03": {
+  "D": [
+   "Joyce Beatty"
+  ],
+  "R": [
+   "Cleophus Dulaney"
+  ],
+  "other": []
+ },
+ "OH-04": {
+  "D": [
+   "Joshua D. Kolasinski"
+  ],
+  "R": [
+   "Jim Jordan"
+  ],
+  "other": [
+   [
+    "Tracey L. Tackett",
+    "Independent"
+   ]
+  ]
+ },
+ "OH-05": {
+  "D": [
+   "Brian A. Shaver"
+  ],
+  "R": [
+   "Bob Latta"
+  ],
+  "other": [
+   [
+    "Michael J. Veloff",
+    "Libertarian"
+   ]
+  ]
+ },
+ "OH-06": {
+  "D": [
+   "Elizabeth Kirtley"
+  ],
+  "R": [
+   "Michael A. Rulli"
+  ],
+  "other": []
+ },
+ "OH-07": {
+  "D": [
+   "Brian Poindexter"
+  ],
+  "R": [
+   "Max Miller"
+  ],
+  "other": []
+ },
+ "OH-08": {
+  "D": [
+   "Vanessa Enoch"
+  ],
+  "R": [
+   "Warren Davidson"
+  ],
+  "other": []
+ },
+ "OH-09": {
+  "D": [
+   "Marcy Kaptur"
+  ],
+  "R": [
+   "Derek Merrin"
+  ],
+  "other": []
+ },
+ "OH-10": {
+  "D": [
+   "Kristina Knickerbocker"
+  ],
+  "R": [
+   "Mike Turner"
+  ],
+  "other": []
+ },
+ "IL-01": {
+  "D": [
+   "Jonathan L. Jackson"
+  ],
+  "R": [
+   "Christian Maxwell"
+  ],
+  "other": []
+ },
+ "IL-02": {
+  "D": [
+   "Donna Miller"
+  ],
+  "R": [
+   "Michael Scott Noack"
+  ],
+  "other": []
+ },
+ "IL-03": {
+  "D": [
+   "Delia Ramirez"
+  ],
+  "R": [
+   "Angel Oakley"
+  ],
+  "other": []
+ },
+ "IL-04": {
+  "D": [
+   "Patty Garcia"
+  ],
+  "R": [
+   "Lupe Castillo"
+  ],
+  "other": [
+   [
+    "Ed Hershey",
+    "Working Class Party"
+   ],
+   [
+    "Chris Getty",
+    "Independent"
+   ]
+  ]
+ },
+ "IL-05": {
+  "D": [
+   "Mike Quigley"
+  ],
+  "R": [
+   "Tommy Hanson"
+  ],
+  "other": []
+ },
+ "IL-06": {
+  "D": [
+   "Sean Casten"
+  ],
+  "R": [
+   "Niki Conforti"
+  ],
+  "other": []
+ },
+ "NC-05": {
+  "D": [
+   "Chuck Hubbard"
+  ],
+  "R": [
+   "Virginia Foxx"
+  ],
+  "other": [
+   [
+    "Robert B. Luffman",
+    "Libertarian"
+   ]
+  ]
+ },
+ "NC-06": {
+  "D": [
+   "Cyril Jefferson"
+  ],
+  "R": [
+   "Addison McDowell"
+  ],
+  "other": []
+ },
+ "WV-01": {
+  "D": [
+   "Vince George"
+  ],
+  "R": [
+   "Carol Miller"
+  ],
+  "other": [
+   [
+    "Belinda Fox-Spencer",
+    "Constitution"
+   ]
+  ]
+ },
+ "MD-05": {
+  "D": [
+   "Adrian Boafo"
+  ],
+  "R": [
+   "Chris Chaffee"
+  ],
+  "other": [
+   [
+    "Mildred Marie Hall",
+    "Other Candidates"
+   ]
+  ]
+ },
+ "MD-06": {
+  "D": [
+   "April McClain Delaney"
+  ],
+  "R": [
+   "Robin Ficker"
+  ],
+  "other": [
+   [
+    "Moshe Y. Landman",
+    "Green"
+   ]
+  ]
+ },
+ "MD-07": {
+  "D": [
+   "Kweisi Mfume"
+  ],
+  "R": [
+   "Scott M. Collier"
+  ],
+  "other": []
+ },
+ "MD-08": {
+  "D": [
+   "Jamie Raskin"
+  ],
+  "R": [
+   "Cheryl Riley"
+  ],
+  "other": [
+   [
+    "Nancy Wallace",
+    "Green"
+   ]
+  ]
+ },
+ "MA-01": {
+  "D": [
+   "Richard E. Neal"
+  ],
+  "R": [],
+  "other": []
+ },
+ "MA-02": {
+  "D": [
+   "James P. McGovern"
+  ],
+  "R": [],
+  "other": []
+ },
+ "MA-03": {
+  "D": [
+   "Lori Loureiro Trahan"
+  ],
+  "R": [
+   "Gary J. Grossi"
+  ],
+  "other": []
+ },
+ "MA-04": {
+  "D": [
+   "Jake Auchincloss"
+  ],
+  "R": [
+   "Thomas Stalcup"
+  ],
+  "other": []
+ },
+ "MA-05": {
+  "D": [
+   "Katherine M. Clark"
+  ],
+  "R": [],
+  "other": []
+ },
+ "MA-06": {
+  "D": [
+   "Dan Koh"
+  ],
+  "R": [
+   "Micah Quinney Jones"
+  ],
+  "other": []
+ },
+ "MA-07": {
+  "D": [
+   "Ayanna S. Pressley"
+  ],
+  "R": [],
+  "other": []
+ },
+ "MO-06": {
+  "D": [
+   "Josh Smead"
+  ],
+  "R": [
+   "Chris Stigall"
+  ],
+  "other": []
+ },
+ "MO-07": {
+  "D": [
+   "Missi Hesketh"
+  ],
+  "R": [
+   "Eric W. Burlison"
+  ],
+  "other": []
+ },
+ "MO-08": {
+  "D": [
+   "Chris Reichard"
+  ],
+  "R": [
+   "Jason T. Smith"
+  ],
+  "other": []
+ },
+ "MT-02": {
+  "D": [
+   "Brian J. Miller"
+  ],
+  "R": [
+   "Troy Downing"
+  ],
+  "other": [
+   [
+    "Patrick McCracken",
+    "L"
+   ],
+   [
+    "Michael D. Eisenhauer",
+    "I"
+   ]
+  ]
+ },
+ "NE-02": {
+  "D": [
+   "Denise Powell"
+  ],
+  "R": [
+   "Brinker Harding"
+  ],
+  "other": [
+   [
+    "Eric Michael Foreman",
+    "L"
+   ]
+  ]
+ },
+ "NE-03": {
+  "D": [
+   "Becky Kelly Stille"
+  ],
+  "R": [
+   "Adrian Smith"
+  ],
+  "other": []
+ },
+ "AZ-02": {
+  "D": [
+   "Jonathan Nez"
+  ],
+  "R": [
+   "Eli Crane"
+  ],
+  "other": [
+   [
+    "Curtis Goodwin",
+    "Libertarian"
+   ]
+  ]
+ },
+ "AZ-03": {
+  "D": [
+   "Yassamin Ansari"
+  ],
+  "R": [],
+  "other": [
+   [
+    "David Redkey",
+    "Green"
+   ],
+   [
+    "Alan Aversa",
+    "No Labels"
+   ]
+  ]
+ },
+ "AZ-04": {
+  "D": [
+   "Greg Stanton"
+  ],
+  "R": [
+   "Zuhdi Jasser"
+  ],
+  "other": [
+   [
+    "Tisha Benoit",
+    "No Labels"
+   ]
+  ]
+ },
+ "TN-05": {
+  "D": [],
+  "R": [
+   "Charlie Hatcher"
+  ],
+  "other": []
+ },
+ "FL-11": {
+  "D": [],
+  "R": [
+   "Carey Baker"
+  ],
+  "other": []
+ }
+}

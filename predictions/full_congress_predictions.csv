@@ -1,0 +1,471 @@
+race_id,chamber,state,district,predicted_winner,predicted_party,model_prob,kalshi_prob_pick,points_if_correct,expected_points,against_market,market_source,name_source
+SEN-AL,Senate,AL,,Barry Moore,R,0.9887,0.98,0.029,0.029,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-AK,Senate,AK,,Mary Peltola,D,0.731,0.75,0.415,0.303,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-AR,Senate,AR,,Tom Cotton,R,0.9862,0.94,0.089,0.088,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-CO,Senate,CO,,John Hickenlooper,D,0.9941,0.99,0.014,0.014,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-DE,Senate,DE,,Chris Coons,D,0.9936,0.98,0.029,0.029,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-FL,Senate,FL,,Ashley Moody,R,0.8756,0.92,0.12,0.105,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-GA,Senate,GA,,Jon Ossoff,D,0.9573,0.95,0.074,0.071,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-ID,Senate,ID,,Jim Risch,R,0.9888,0.94,0.089,0.088,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-IL,Senate,IL,,Juliana Stratton,D,0.988,0.98,0.029,0.029,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-IA,Senate,IA,,Josh Turek,D,0.4428,0.42,1.252,0.554,1,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-KS,Senate,KS,,Roger Marshall,R,0.6228,0.6,0.737,0.459,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-KY,Senate,KY,,Andy Barr,R,0.9839,0.96,0.059,0.058,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-LA,Senate,LA,,Julia Letlow,R,0.9299,0.93,0.105,0.097,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-ME,Senate,ME,,Troy Jackson,D,0.6727,0.6,0.737,0.496,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-MA,Senate,MA,,Ed Markey,D,0.9922,0.97,0.044,0.044,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-MI,Senate,MI,,Abdul El-Sayed,D,0.7504,0.69,0.535,0.402,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-MN,Senate,MN,,Peggy Flanagan,D,0.883,0.88,0.184,0.163,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-MS,Senate,MS,,Cindy Hyde-Smith,R,0.9176,0.88,0.184,0.169,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-MT,Senate,MT,,Kurt Alme,R,0.9715,0.91,0.136,0.132,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-NE,Senate,NE,,Pete Ricketts,R,0.7413,0.75,0.415,0.308,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-NH,Senate,NH,,Chris Pappas,D,0.9298,0.89,0.168,0.156,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-NJ,Senate,NJ,,Cory Booker,D,0.9766,0.97,0.044,0.043,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-NM,Senate,NM,,Ben Ray Lujan,D,0.9812,0.98,0.029,0.029,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-NC,Senate,NC,,Roy Cooper,D,0.9759,0.965,0.051,0.05,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-OH,Senate,OH,,Sherrod Brown,D,0.7237,0.68,0.556,0.403,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-OK,Senate,OK,,Kevin Hern,R,0.9936,0.98,0.029,0.029,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-OR,Senate,OR,,Jeff Merkley,D,0.9955,0.99,0.014,0.014,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-RI,Senate,RI,,Jack Reed,D,0.9955,0.99,0.014,0.014,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-SC,Senate,SC,,Darline Graham (Nordone),R,0.7694,0.77,0.377,0.29,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-SD,Senate,SD,,Mike Rounds,R,0.9853,0.92,0.12,0.119,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-TN,Senate,TN,,Bill Hagerty,R,0.9852,0.95,0.074,0.073,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-TX,Senate,TX,,Ken Paxton,R,0.4122,0.36,1.474,0.608,1,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-VA,Senate,VA,,Mark Warner,D,0.9863,0.99,0.014,0.014,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-WV,Senate,WV,,Shelley Moore Capito,R,0.9936,0.98,0.029,0.029,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+SEN-WY,Senate,WY,,Harriet Hageman,R,0.9936,0.98,0.029,0.029,0,Kalshi snapshot Oct 21-26 (replace with Nov 1),Senate inputs file
+HOUSE-AK-01,House,AK,AK-01,Nick Begich,R,0.7562,0.77,0.377,0.285,0,Kalshi exact,certified list
+HOUSE-AL-01,House,AL,AL-01,Jerry Carl,R,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-AL-02,House,AL,AL-02,Rhett Marques,R,0.6032,0.69,0.535,0.323,0,Kalshi exact,certified list
+HOUSE-AL-03,House,AL,AL-03,Mike Rogers,R,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-AL-04,House,AL,AL-04,Robert B. Aderholt,R,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-AL-05,House,AL,AL-05,Dale W. Strong,R,0.9699,0.94,0.089,0.087,0,Kalshi exact,certified list
+HOUSE-AL-06,House,AL,AL-06,Gary Palmer,R,0.9858,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-AL-07,House,AL,AL-07,Terri Sewell,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-AR-01,House,AR,AR-01,Rick Crawford,R,0.9858,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-AR-02,House,AR,AR-02,French Hill,R,0.8457,0.82,0.286,0.242,0,Kalshi exact,certified list
+HOUSE-AR-03,House,AR,AR-03,Steve Womack,R,0.9736,0.96,0.059,0.057,0,Kalshi exact,certified list
+HOUSE-AR-04,House,AR,AR-04,Bruce Westerman,R,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-AZ-01,House,AZ,AZ-01,Amish Shah,D,0.79,0.8,0.322,0.254,0,Kalshi exact,certified list
+HOUSE-AZ-02,House,AZ,AZ-02,Eli Crane,R,0.7022,0.68,0.556,0.391,0,Kalshi exact,certified list
+HOUSE-AZ-03,House,AZ,AZ-03,Yassamin Ansari,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-AZ-04,House,AZ,AZ-04,Greg Stanton,D,0.9922,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-AZ-05,House,AZ,AZ-05,Mark Lamb,R,0.8494,0.89,0.168,0.143,0,Kalshi exact,certified list
+HOUSE-AZ-06,House,AZ,AZ-06,JoAnna Mendoza,D,0.8508,0.89,0.168,0.143,0,Kalshi exact,certified list
+HOUSE-AZ-07,House,AZ,AZ-07,Adelita Grijalva,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-AZ-08,House,AZ,AZ-08,Abraham 'Abe' Hamadeh,R,0.8649,0.88,0.184,0.16,0,Kalshi exact,certified list
+HOUSE-AZ-09,House,AZ,AZ-09,Paul Gosar,R,0.9778,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-CA-01,House,CA,CA-01,Mike McGuire,D,0.8383,0.9,0.152,0.127,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-CA-02,House,CA,CA-02,Jared Huffman,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-CA-03,House,CA,CA-03,Ami Bera,D,0.9909,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-CA-04,House,CA,CA-04,Mike Thompson,D,0.9964,0.995,0.007,0.007,0,same-party race (seat outcome certain),certified list
+HOUSE-CA-05,House,CA,CA-05,Tom McClintock,R,0.9298,0.94,0.089,0.083,0,Kalshi exact,certified list
+HOUSE-CA-06,House,CA,CA-06,Richard Pan,D,0.9865,0.9945,0.008,0.008,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-CA-07,House,CA,CA-07,Doris Matsui,D,0.9964,0.995,0.007,0.007,0,same-party race (seat outcome certain),certified list
+HOUSE-CA-08,House,CA,CA-08,John Garamendi,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-CA-09,House,CA,CA-09,Josh Harder,D,0.9887,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-CA-10,House,CA,CA-10,Mark DeSaulnier,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-CA-11,House,CA,CA-11,Scott Wiener,D,0.9964,0.995,0.007,0.007,0,same-party race (seat outcome certain),certified list
+HOUSE-CA-12,House,CA,CA-12,Lateefah Simon,D,0.9964,0.995,0.007,0.007,0,same-party race (seat outcome certain),certified list
+HOUSE-CA-13,House,CA,CA-13,Adam Gray,D,0.9883,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-CA-14,House,CA,CA-14,Aisha Wahab,D,0.9964,0.995,0.007,0.007,0,same-party race (seat outcome certain),certified list
+HOUSE-CA-15,House,CA,CA-15,Kevin Mullin,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-CA-16,House,CA,CA-16,Sam Liccardo,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-CA-17,House,CA,CA-17,Ro Khanna,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-CA-18,House,CA,CA-18,Zoe Lofgren,D,0.9835,0.95,0.074,0.073,0,Kalshi exact,certified list
+HOUSE-CA-19,House,CA,CA-19,Jimmy Panetta,D,0.998,1.0,-0.0,-0.0,0,Kalshi exact,certified list
+HOUSE-CA-20,House,CA,CA-20,Vince Fong,R,0.9781,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-CA-21,House,CA,CA-21,Jim Costa,D,0.9479,0.94,0.089,0.085,0,Kalshi exact,certified list
+HOUSE-CA-22,House,CA,CA-22,Randy Villegas,D,0.8478,0.92,0.12,0.102,0,Kalshi exact,certified list
+HOUSE-CA-23,House,CA,CA-23,Jay Obernolte,R,0.9384,0.96,0.059,0.055,0,Kalshi exact,certified list
+HOUSE-CA-24,House,CA,CA-24,Salud Carbajal,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-CA-25,House,CA,CA-25,Raul Ruiz,D,0.9634,0.97,0.044,0.042,0,Kalshi exact,certified list
+HOUSE-CA-26,House,CA,CA-26,Jacqui Irwin,D,0.9771,0.94,0.089,0.087,0,Kalshi exact,certified list
+HOUSE-CA-27,House,CA,CA-27,George Whitesides,D,0.9683,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-CA-28,House,CA,CA-28,Judy Chu,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-CA-29,House,CA,CA-29,Luz Maria Rivas,D,0.9964,0.995,0.007,0.007,0,same-party race (seat outcome certain),certified list
+HOUSE-CA-30,House,CA,CA-30,Laura Friedman,D,0.9835,0.95,0.074,0.073,0,Kalshi exact,certified list
+HOUSE-CA-31,House,CA,CA-31,Gil Cisneros,D,0.9835,0.95,0.074,0.073,0,Kalshi exact,certified list
+HOUSE-CA-32,House,CA,CA-32,Brad Sherman,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-CA-33,House,CA,CA-33,Pete Aguilar,D,0.9831,0.98,0.029,0.029,0,Kalshi exact,incumbent
+HOUSE-CA-34,House,CA,CA-34,Jimmy Gomez,D,0.998,1.0,-0.0,-0.0,0,Kalshi exact,incumbent
+HOUSE-CA-35,House,CA,CA-35,Norma J. Torres,D,0.9731,0.95,0.074,0.072,0,Kalshi exact,incumbent
+HOUSE-CA-36,House,CA,CA-36,Ted Lieu,D,0.9835,0.95,0.074,0.073,0,Kalshi exact,incumbent
+HOUSE-CA-37,House,CA,CA-37,Sydney Kamlager-Dove,D,0.998,1.0,-0.0,-0.0,0,Kalshi exact,incumbent
+HOUSE-CA-38,House,CA,CA-38,Democratic nominee (name not collected),D,0.9943,0.99,0.014,0.014,0,Kalshi exact,placeholder
+HOUSE-CA-39,House,CA,CA-39,Mark Takano,D,0.9797,0.97,0.044,0.043,0,Kalshi exact,incumbent
+HOUSE-CA-40,House,CA,CA-40,Young Kim,R,0.9964,0.995,0.007,0.007,0,same-party race (seat outcome certain),certified list
+HOUSE-CA-41,House,CA,CA-41,Linda Sánchez,D,0.9539,0.93,0.105,0.1,0,Kalshi exact,certified list
+HOUSE-CA-42,House,CA,CA-42,Robert Garcia,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-CA-43,House,CA,CA-43,Maxine Waters,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-CA-44,House,CA,CA-44,Nanette Diaz Barragan,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-CA-45,House,CA,CA-45,Derek Tran,D,0.9448,0.93,0.105,0.099,0,Kalshi exact,certified list
+HOUSE-CA-46,House,CA,CA-46,Lou Correa,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-CA-47,House,CA,CA-47,Dave Min,D,0.9558,0.95,0.074,0.071,0,Kalshi exact,certified list
+HOUSE-CA-48,House,CA,CA-48,Marni von Wilpert,D,0.8894,0.92,0.12,0.107,0,Kalshi exact,certified list
+HOUSE-CA-49,House,CA,CA-49,Mike Levin,D,0.9759,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-CA-50,House,CA,CA-50,Scott Peters,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-CA-51,House,CA,CA-51,Sara Jacobs,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-CA-52,House,CA,CA-52,Juan Vargas,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-CO-01,House,CO,CO-01,Melat Kiros,D,0.998,1.0,-0.0,-0.0,0,Kalshi exact,certified list
+HOUSE-CO-02,House,CO,CO-02,Joe Neguse,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-CO-03,House,CO,CO-03,Jeff Hurd,R,0.7154,0.66,0.599,0.429,0,Kalshi exact,certified list
+HOUSE-CO-04,House,CO,CO-04,Lauren Boebert,R,0.7394,0.69,0.535,0.396,0,Kalshi exact,certified list
+HOUSE-CO-05,House,CO,CO-05,Jeff Crank,R,0.6976,0.66,0.599,0.418,0,Kalshi exact,certified list
+HOUSE-CO-06,House,CO,CO-06,Jason Crow,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-CO-07,House,CO,CO-07,Brittany Pettersen,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-CO-08,House,CO,CO-08,Manny Rutinel,D,0.8047,0.85,0.234,0.189,0,Kalshi exact,certified list
+HOUSE-CT-01,House,CT,CT-01,Luke Bronin,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-CT-02,House,CT,CT-02,Joe Courtney,D,0.9922,0.99,0.014,0.014,0,Kalshi exact,incumbent
+HOUSE-CT-03,House,CT,CT-03,Rosa L. DeLauro,D,0.9835,0.95,0.074,0.073,0,Kalshi exact,incumbent
+HOUSE-CT-04,House,CT,CT-04,James A. Himes,D,0.9883,0.97,0.044,0.043,0,Kalshi exact,incumbent
+HOUSE-CT-05,House,CT,CT-05,Jahana Hayes,D,0.9703,0.97,0.044,0.043,0,Kalshi exact,incumbent
+HOUSE-DE-01,House,DE,DE-01,Sarah McBride,D,0.991,0.98,0.029,0.029,0,Kalshi exact,incumbent
+HOUSE-FL-01,House,FL,FL-01,Jimmy Patronis,R,0.9879,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-FL-02,House,FL,FL-02,Austin Rogers,R,0.9257,0.93,0.105,0.097,0,Kalshi exact,certified list
+HOUSE-FL-03,House,FL,FL-03,Kat Cammack,R,0.9464,0.95,0.074,0.07,0,Kalshi exact,certified list
+HOUSE-FL-04,House,FL,FL-04,Aaron Bean,R,0.8077,0.84,0.252,0.203,0,Kalshi exact,certified list
+HOUSE-FL-05,House,FL,FL-05,John H. Rutherford,R,0.946,0.94,0.089,0.084,0,Kalshi exact,certified list
+HOUSE-FL-06,House,FL,FL-06,Randy Fine,R,0.9947,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-FL-07,House,FL,FL-07,Ryan Elijah,R,0.744,0.74,0.434,0.323,0,Kalshi exact,certified list
+HOUSE-FL-08,House,FL,FL-08,Mike Haridopolos,R,0.9889,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-FL-09,House,FL,FL-09,Dan Green,R,0.7152,0.71,0.494,0.353,0,Kalshi exact,certified list
+HOUSE-FL-10,House,FL,FL-10,Maxwell Frost,D,0.9964,0.995,0.007,0.007,0,same-party race (seat outcome certain),incumbent
+HOUSE-FL-11,House,FL,FL-11,Carey Baker,R,0.8515,0.85,0.234,0.2,0,Kalshi exact,certified list
+HOUSE-FL-12,House,FL,FL-12,Gus M. Bilirakis,R,0.9661,0.86,0.218,0.21,0,Kalshi exact,incumbent
+HOUSE-FL-13,House,FL,FL-13,Anna Paulina Luna,R,0.7267,0.71,0.494,0.359,0,Kalshi exact,certified list
+HOUSE-FL-14,House,FL,FL-14,Kathy Castor,D,0.6315,0.67,0.578,0.365,0,Kalshi exact,certified list
+HOUSE-FL-15,House,FL,FL-15,Laurel Lee,R,0.9839,0.9932,0.01,0.01,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-FL-16,House,FL,FL-16,Sydney Gruters,R,0.8398,0.81,0.304,0.255,0,Kalshi exact,certified list
+HOUSE-FL-17,House,FL,FL-17,Greg Steube,R,0.9901,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-FL-18,House,FL,FL-18,Scott Franklin,R,0.9939,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-FL-19,House,FL,FL-19,Jim Schwartzel,R,0.9936,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-FL-20,House,FL,FL-20,Debbie Wasserman Schultz,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-FL-21,House,FL,FL-21,Brian J. Mast,R,0.8601,0.86,0.218,0.187,0,Kalshi exact,incumbent
+HOUSE-FL-22,House,FL,FL-22,Casey Askar,R,0.4292,0.39,1.358,0.583,1,Kalshi exact,certified list
+HOUSE-FL-23,House,FL,FL-23,Lois Frankel,D,0.9838,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-FL-24,House,FL,FL-24,Oliver G. Gilbert III,D,0.9883,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-FL-25,House,FL,FL-25,Jared Moskowitz,D,0.8002,0.83,0.269,0.215,0,Kalshi exact,certified list
+HOUSE-FL-26,House,FL,FL-26,Mario Diaz-Balart,R,0.9593,0.82,0.286,0.275,0,Kalshi exact,certified list
+HOUSE-FL-27,House,FL,FL-27,Maria Elvira Salazar,R,0.7132,0.66,0.599,0.428,0,Kalshi exact,certified list
+HOUSE-FL-28,House,FL,FL-28,Carlos A. Gimenez,R,0.9912,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-GA-01,House,GA,GA-01,James 'Jim' Kingston,R,0.8279,0.87,0.201,0.166,0,Kalshi exact,certified list
+HOUSE-GA-02,House,GA,GA-02,Sanford Bishop,D,0.977,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-GA-03,House,GA,GA-03,Brian Jack,R,0.9957,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-GA-04,House,GA,GA-04,Henry 'Hank' Johnson Jr.,D,0.9883,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-GA-05,House,GA,GA-05,Nikema Williams,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-GA-06,House,GA,GA-06,Lucy McBath,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-GA-07,House,GA,GA-07,Rich McCormick,R,0.9376,0.89,0.168,0.158,0,Kalshi exact,certified list
+HOUSE-GA-08,House,GA,GA-08,Austin Scott,R,0.9961,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-GA-09,House,GA,GA-09,Andrew Clyde,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-GA-10,House,GA,GA-10,Houston Gaines,R,0.9257,0.9551,0.066,0.061,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-GA-11,House,GA,GA-11,John Cowan,R,0.9931,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-GA-12,House,GA,GA-12,Rick W. Allen,R,0.8501,0.85,0.234,0.199,0,Kalshi exact,certified list
+HOUSE-GA-13,House,GA,GA-13,Jasmine Clark,D,0.9883,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-GA-14,House,GA,GA-14,Clay Fuller,R,0.9956,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-HI-01,House,HI,HI-01,Ed Case,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-HI-02,House,HI,HI-02,Jill N. Tokuda,D,0.9813,0.94,0.089,0.088,0,Kalshi exact,certified list
+HOUSE-IA-01,House,IA,IA-01,Christina Bohannan,D,0.858,0.91,0.136,0.117,0,Kalshi exact,certified list
+HOUSE-IA-02,House,IA,IA-02,Lindsay James,D,0.6451,0.72,0.474,0.306,0,Kalshi exact,certified list
+HOUSE-IA-03,House,IA,IA-03,Sarah Trone Garriott,D,0.8076,0.85,0.234,0.189,0,Kalshi exact,certified list
+HOUSE-IA-04,House,IA,IA-04,Chris McGowan,R,0.9876,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-ID-01,House,ID,ID-01,Russ Fulcher,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-ID-02,House,ID,ID-02,Mike Simpson,R,0.9936,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-IL-01,House,IL,IL-01,Jonathan L. Jackson,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-IL-02,House,IL,IL-02,Donna Miller,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-IL-03,House,IL,IL-03,Delia Ramirez,D,0.9883,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-IL-04,House,IL,IL-04,Patty Garcia,D,0.9813,0.94,0.089,0.088,0,Kalshi exact,certified list
+HOUSE-IL-05,House,IL,IL-05,Mike Quigley,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-IL-06,House,IL,IL-06,Sean Casten,D,0.9647,0.95,0.074,0.071,0,Kalshi exact,certified list
+HOUSE-IL-07,House,IL,IL-07,La Shawn K. Ford,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-IL-08,House,IL,IL-08,Melissa L. Bean,D,0.9779,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-IL-09,House,IL,IL-09,Daniel Biss,D,0.9835,0.95,0.074,0.073,0,Kalshi exact,certified list
+HOUSE-IL-10,House,IL,IL-10,Brad Schneider,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-IL-11,House,IL,IL-11,Bill Foster,D,0.9948,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-IL-12,House,IL,IL-12,Mike Bost,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-IL-13,House,IL,IL-13,Nikki Budzinski,D,0.9958,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-IL-14,House,IL,IL-14,Lauren Underwood,D,0.9926,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-IL-15,House,IL,IL-15,Mary E. Miller,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-IL-16,House,IL,IL-16,Darin LaHood,R,0.9892,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-IL-17,House,IL,IL-17,Eric Sorensen,D,0.992,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-IN-01,House,IN,IN-01,Frank J. Mrvan,D,0.9885,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-IN-02,House,IN,IN-02,Rudy Yakym III,R,0.9923,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-IN-03,House,IN,IN-03,Marlin A. Stutzman,R,0.9963,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-IN-04,House,IN,IN-04,James R. Baird,R,0.9952,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-IN-05,House,IN,IN-05,Victoria Spartz,R,0.8517,0.82,0.286,0.244,0,Kalshi exact,incumbent
+HOUSE-IN-06,House,IN,IN-06,Jefferson Shreve,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-IN-07,House,IN,IN-07,André Carson,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-IN-08,House,IN,IN-08,Mark B. Messmer,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-IN-09,House,IN,IN-09,Erin Houchin,R,0.9946,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-KS-01,House,KS,KS-01,Tracey Mann,R,0.9962,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-KS-02,House,KS,KS-02,Derek Schmidt,R,0.8561,0.8,0.322,0.276,0,Kalshi exact,incumbent
+HOUSE-KS-03,House,KS,KS-03,Sharice Davids,D,0.9925,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-KS-04,House,KS,KS-04,Ron Estes,R,0.9915,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-KY-01,House,KY,KY-01,James R. Comer,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-KY-02,House,KY,KY-02,S. Brett Guthrie,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-KY-03,House,KY,KY-03,Morgan McGarvey,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-KY-04,House,KY,KY-04,Ed Gallrein,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-KY-05,House,KY,KY-05,Hal Rogers,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-KY-06,House,KY,KY-06,Ralph Alvarado,R,0.5712,0.54,0.889,0.508,0,Kalshi exact,certified list
+HOUSE-LA-01,House,LA,LA-01,Steve Scalise,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-LA-02,House,LA,LA-02,Troy A. Carter Sr.,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-LA-03,House,LA,LA-03,Clay Higgins,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-LA-04,House,LA,LA-04,Mike Johnson,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-LA-05,House,LA,LA-05,Republican nominee (name not collected),R,0.9902,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",placeholder
+HOUSE-LA-06,House,LA,LA-06,Republican nominee (name not collected),R,0.8883,0.925,0.112,0.1,0,"Kalshi Safe bucket (>=90c), value imputed",placeholder
+HOUSE-MA-01,House,MA,MA-01,Richard E. Neal,D,0.9958,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MA-02,House,MA,MA-02,James P. McGovern,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MA-03,House,MA,MA-03,Lori Loureiro Trahan,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MA-04,House,MA,MA-04,Jake Auchincloss,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MA-05,House,MA,MA-05,Katherine M. Clark,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MA-06,House,MA,MA-06,Dan Koh,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MA-07,House,MA,MA-07,Ayanna S. Pressley,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MA-08,House,MA,MA-08,Stephen F. Lynch,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MA-09,House,MA,MA-09,William R. Keating,D,0.9951,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MD-01,House,MD,MD-01,Andy Harris,R,0.8646,0.84,0.252,0.217,0,Kalshi exact,incumbent
+HOUSE-MD-02,House,MD,MD-02,"Johnny Olszewski, Jr.",D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MD-03,House,MD,MD-03,Sarah Elfreth,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MD-04,House,MD,MD-04,Glenn Ivey,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MD-05,House,MD,MD-05,Adrian Boafo,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MD-06,House,MD,MD-06,April McClain Delaney,D,0.9927,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MD-07,House,MD,MD-07,Kweisi Mfume,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MD-08,House,MD,MD-08,Jamie Raskin,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-ME-01,House,ME,ME-01,Chellie Pingree,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-ME-02,House,ME,ME-02,Republican nominee (name not collected),R,0.5668,0.55,0.862,0.489,0,Kalshi exact,placeholder
+HOUSE-MI-01,House,MI,MI-01,Jack Bergman,R,0.9011,0.88,0.184,0.166,0,Kalshi exact,incumbent (candidacy not verified)
+HOUSE-MI-02,House,MI,MI-02,John R. Moolenaar,R,0.995,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MI-03,House,MI,MI-03,Hillary J. Scholten,D,0.9935,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MI-04,House,MI,MI-04,Bill Huizenga,R,0.4385,0.39,1.358,0.596,1,Kalshi exact,incumbent (candidacy not verified)
+HOUSE-MI-05,House,MI,MI-05,Tim Walberg,R,0.9939,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MI-06,House,MI,MI-06,Debbie Dingell,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MI-07,House,MI,MI-07,William Lawrence,D,0.6747,0.73,0.454,0.306,0,Kalshi exact,certified list
+HOUSE-MI-08,House,MI,MI-08,Kristen McDonald Rivet,D,0.9883,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MI-09,House,MI,MI-09,Lisa McClain,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MI-10,House,MI,MI-10,Christina Bertrand Hines,D,0.648,0.68,0.556,0.361,0,Kalshi exact,certified list
+HOUSE-MI-11,House,MI,MI-11,Jeremy Moss,D,0.9916,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MI-12,House,MI,MI-12,Rashida Tlaib,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MI-13,House,MI,MI-13,Donavan McKinney,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MN-01,House,MN,MN-01,Brad Finstad,R,0.7045,0.66,0.599,0.422,0,Kalshi exact,certified list
+HOUSE-MN-02,House,MN,MN-02,Matt Little,D,0.9825,0.9925,0.011,0.011,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MN-03,House,MN,MN-03,Kelly Morrison,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MN-04,House,MN,MN-04,Betty McCollum,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MN-05,House,MN,MN-05,Ilhan Omar,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MN-06,House,MN,MN-06,Tom Emmer,R,0.988,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MN-07,House,MN,MN-07,Michelle Fischbach,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MN-08,House,MN,MN-08,Pete Stauber,R,0.8257,0.84,0.252,0.208,0,Kalshi exact,certified list
+HOUSE-MO-01,House,MO,MO-01,Wesley Bell,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MO-02,House,MO,MO-02,Ann Wagner,R,0.67,0.65,0.621,0.416,0,Kalshi exact,incumbent
+HOUSE-MO-03,House,MO,MO-03,"Robert F. Onder, Jr.",R,0.9929,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MO-04,House,MO,MO-04,Mark Alford,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MO-05,House,MO,MO-05,Emanuel Cleaver,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MO-06,House,MO,MO-06,Chris Stigall,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MO-07,House,MO,MO-07,Eric W. Burlison,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MO-08,House,MO,MO-08,Jason T. Smith,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MS-01,House,MS,MS-01,Trent Kelly,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-MS-02,House,MS,MS-02,Bennie G. Thompson,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MS-03,House,MS,MS-03,Michael Guest,R,0.9937,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MS-04,House,MS,MS-04,Mike Ezell,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-MT-01,House,MT,MT-01,Sam Forstag,D,0.4791,0.45,1.152,0.552,1,Kalshi exact,certified list
+HOUSE-MT-02,House,MT,MT-02,Troy Downing,R,0.9952,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NC-01,House,NC,NC-01,Don Davis,D,0.7352,0.81,0.304,0.223,0,Kalshi exact,certified list
+HOUSE-NC-02,House,NC,NC-02,Deborah K. Ross,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NC-03,House,NC,NC-03,Greg Murphy,R,0.7898,0.67,0.578,0.456,0,Kalshi exact,certified list
+HOUSE-NC-04,House,NC,NC-04,Valerie P. Foushee,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NC-05,House,NC,NC-05,Virginia Foxx,R,0.8763,0.87,0.201,0.176,0,Kalshi exact,certified list
+HOUSE-NC-06,House,NC,NC-06,Addison McDowell,R,0.8906,0.9,0.152,0.135,0,Kalshi exact,certified list
+HOUSE-NC-07,House,NC,NC-07,David Rouzer,R,0.7905,0.79,0.34,0.269,0,Kalshi exact,certified list
+HOUSE-NC-08,House,NC,NC-08,Mark Harris,R,0.9814,0.9919,0.012,0.012,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NC-09,House,NC,NC-09,Richard Hudson,R,0.7522,0.69,0.535,0.403,0,Kalshi exact,certified list
+HOUSE-NC-10,House,NC,NC-10,Pat Harrigan,R,0.9664,0.9832,0.024,0.024,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NC-11,House,NC,NC-11,Jamie Ager,D,0.7661,0.86,0.218,0.167,0,Kalshi exact,certified list
+HOUSE-NC-12,House,NC,NC-12,Alma S. Adams,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NC-13,House,NC,NC-13,Brad Knott,R,0.7648,0.69,0.535,0.409,0,Kalshi exact,certified list
+HOUSE-NC-14,House,NC,NC-14,Tim Moore,R,0.8562,0.87,0.201,0.172,0,Kalshi exact,certified list
+HOUSE-ND-01,House,ND,ND-01,Julie Fedorchak,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NE-01,House,NE,NE-01,Mike Flood,R,0.8389,0.81,0.304,0.255,0,Kalshi exact,certified list
+HOUSE-NE-02,House,NE,NE-02,Denise Powell,D,0.9697,0.9853,0.021,0.021,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NE-03,House,NE,NE-03,Adrian Smith,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NH-01,House,NH,NH-01,Stefany Shaheen,D,0.9692,0.9849,0.022,0.021,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NH-02,House,NH,NH-02,Maggie Goodlander,D,0.9918,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NJ-01,House,NJ,NJ-01,Donald Norcross,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NJ-02,House,NJ,NJ-02,Jeff Van Drew,R,0.808,0.77,0.377,0.305,0,Kalshi exact,certified list
+HOUSE-NJ-03,House,NJ,NJ-03,Herb Conaway,D,0.9943,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NJ-04,House,NJ,NJ-04,Christopher H. Smith,R,0.9954,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NJ-05,House,NJ,NJ-05,Josh Gottheimer,D,0.9869,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-NJ-06,House,NJ,NJ-06,Frank Pallone Jr.,D,0.9947,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NJ-07,House,NJ,NJ-07,Rebecca Bennett,D,0.8824,0.93,0.105,0.092,0,Kalshi exact,certified list
+HOUSE-NJ-08,House,NJ,NJ-08,Rob Menendez,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NJ-09,House,NJ,NJ-09,Nelida Pou,D,0.9535,0.95,0.074,0.071,0,Kalshi exact,certified list
+HOUSE-NJ-10,House,NJ,NJ-10,LaMonica McIver,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-NJ-11,House,NJ,NJ-11,Analilia Mejia,D,0.9807,0.96,0.059,0.058,0,Kalshi exact,incumbent
+HOUSE-NJ-12,House,NJ,NJ-12,Adam Hamawy,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NM-01,House,NM,NM-01,Melanie Ann Stansbury,D,0.9956,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NM-02,House,NM,NM-02,Gabriel Vasquez,D,0.9846,0.9935,0.009,0.009,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NM-03,House,NM,NM-03,Teresa Leger Fernandez,D,0.9932,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NV-01,House,NV,NV-01,Dina Titus,D,0.9888,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-NV-02,House,NV,NV-02,Republican nominee (name not collected),R,0.7281,0.62,0.69,0.502,0,Kalshi exact,placeholder
+HOUSE-NV-03,House,NV,NV-03,Susie Lee,D,0.9844,0.9935,0.009,0.009,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-NV-04,House,NV,NV-04,Steven Horsford,D,0.989,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-NY-01,House,NY,NY-01,Nicholas J. LaLota,R,0.7637,0.79,0.34,0.26,0,Kalshi exact,certified list
+HOUSE-NY-02,House,NY,NY-02,Andrew R. Garbarino,R,0.8397,0.81,0.304,0.255,0,Kalshi exact,certified list
+HOUSE-NY-03,House,NY,NY-03,Thomas R. Suozzi,D,0.9837,0.9931,0.01,0.01,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NY-04,House,NY,NY-04,Laura A. Gillen,D,0.9888,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NY-05,House,NY,NY-05,Gregory W. Meeks,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NY-06,House,NY,NY-06,Grace Meng,D,0.9963,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NY-07,House,NY,NY-07,Claire Valdez,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NY-08,House,NY,NY-08,Hakeem S. Jeffries,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-NY-09,House,NY,NY-09,Yvette D. Clarke,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-NY-10,House,NY,NY-10,Brad Lander,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NY-11,House,NY,NY-11,Nicole Malliotakis,R,0.9912,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-NY-12,House,NY,NY-12,Democratic nominee (name not collected),D,0.9275,0.64,0.644,0.597,0,Kalshi exact,placeholder
+HOUSE-NY-13,House,NY,NY-13,Darializa Avila Chevalier,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NY-14,House,NY,NY-14,Alexandria Ocasio-Cortez,D,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-NY-15,House,NY,NY-15,Ritchie Torres,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,incumbent
+HOUSE-NY-16,House,NY,NY-16,George Latimer,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,incumbent
+HOUSE-NY-17,House,NY,NY-17,Cait Conley,D,0.6028,0.61,0.713,0.43,0,Kalshi exact,certified list
+HOUSE-NY-18,House,NY,NY-18,Patrick Ryan,D,0.9825,0.98,0.029,0.029,0,Kalshi exact,incumbent
+HOUSE-NY-19,House,NY,NY-19,Josh Riley,D,0.957,0.96,0.059,0.056,0,Kalshi exact,incumbent
+HOUSE-NY-20,House,NY,NY-20,Paul Tonko,D,0.991,0.98,0.029,0.029,0,Kalshi exact,incumbent
+HOUSE-NY-21,House,NY,NY-21,Anthony Constantino,R,0.7139,0.67,0.578,0.412,0,Kalshi exact,certified list
+HOUSE-NY-22,House,NY,NY-22,John W. Mannion,D,0.9683,0.96,0.059,0.057,0,Kalshi exact,certified list
+HOUSE-NY-23,House,NY,NY-23,Nicholas A. Langworthy,R,0.9911,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NY-24,House,NY,NY-24,Claudia Tenney,R,0.9918,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-NY-25,House,NY,NY-25,Joseph D. Morelle,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-NY-26,House,NY,NY-26,Timothy M. Kennedy,D,0.9835,0.95,0.074,0.073,0,Kalshi exact,certified list
+HOUSE-OH-01,House,OH,OH-01,Greg Landsman,D,0.9345,0.95,0.074,0.069,0,Kalshi exact,certified list
+HOUSE-OH-02,House,OH,OH-02,David J. Taylor,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OH-03,House,OH,OH-03,Joyce Beatty,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-OH-04,House,OH,OH-04,Jim Jordan,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OH-05,House,OH,OH-05,Bob Latta,R,0.9938,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OH-06,House,OH,OH-06,Michael A. Rulli,R,0.996,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OH-07,House,OH,OH-07,Brian Poindexter,D,0.6995,0.82,0.286,0.2,0,Kalshi bucket-midpoint,certified list
+HOUSE-OH-08,House,OH,OH-08,Warren Davidson,R,0.9899,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OH-09,House,OH,OH-09,Marcy Kaptur,D,0.7435,0.82,0.286,0.213,0,Kalshi bucket-midpoint,certified list
+HOUSE-OH-10,House,OH,OH-10,Mike Turner,R,0.6913,0.71,0.494,0.342,0,Kalshi exact,certified list
+HOUSE-OH-11,House,OH,OH-11,Shontel M. Brown,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-OH-12,House,OH,OH-12,Troy Balderson,R,0.9956,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OH-13,House,OH,OH-13,Emilia Sykes,D,0.9347,0.95,0.074,0.069,0,Kalshi exact,certified list
+HOUSE-OH-14,House,OH,OH-14,David P. Joyce,R,0.9689,0.9848,0.022,0.021,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OH-15,House,OH,OH-15,Mike Carey,R,0.6609,0.63,0.667,0.441,0,Kalshi exact,certified list
+HOUSE-OK-01,House,OK,OK-01,Mark Tedford,R,0.9315,0.9594,0.06,0.056,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OK-02,House,OK,OK-02,Josh Brecheen,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OK-03,House,OK,OK-03,Frank D. Lucas,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OK-04,House,OK,OK-04,Tom Cole,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-OK-05,House,OK,OK-05,Stephanie Bice,R,0.871,0.85,0.234,0.204,0,Kalshi exact,certified list
+HOUSE-OR-01,House,OR,OR-01,Suzanne Bonamici,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,incumbent
+HOUSE-OR-02,House,OR,OR-02,Cliff Bentz,R,0.9935,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-OR-03,House,OR,OR-03,Maxine Dexter,D,0.991,0.98,0.029,0.029,0,Kalshi exact,incumbent
+HOUSE-OR-04,House,OR,OR-04,Val T. Hoyle,D,0.9814,0.97,0.044,0.043,0,Kalshi exact,incumbent
+HOUSE-OR-05,House,OR,OR-05,Janelle S. Bynum,D,0.9647,0.96,0.059,0.057,0,Kalshi exact,incumbent
+HOUSE-OR-06,House,OR,OR-06,Andrea Salinas,D,0.9843,0.98,0.029,0.029,0,Kalshi exact,incumbent
+HOUSE-PA-01,House,PA,PA-01,Brian Fitzpatrick,R,0.5978,0.58,0.786,0.47,0,Kalshi exact,certified list
+HOUSE-PA-02,House,PA,PA-02,Brendan F. Boyle,D,0.9883,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-PA-03,House,PA,PA-03,Chris Rabb,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-PA-04,House,PA,PA-04,Madeleine Dean,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-PA-05,House,PA,PA-05,Mary Gay Scanlon,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-PA-06,House,PA,PA-06,Chrissy Houlahan,D,0.988,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-PA-07,House,PA,PA-07,Bob Brooks,D,0.7772,0.82,0.286,0.223,0,Kalshi bucket-midpoint,certified list
+HOUSE-PA-08,House,PA,PA-08,Paige Cognetti,D,0.719,0.82,0.286,0.206,0,Kalshi bucket-midpoint,certified list
+HOUSE-PA-09,House,PA,PA-09,Dan Meuser,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-PA-10,House,PA,PA-10,Janelle Stelson,D,0.7885,0.82,0.286,0.226,0,Kalshi bucket-midpoint,certified list
+HOUSE-PA-11,House,PA,PA-11,Lloyd K. Smucker,R,0.989,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-PA-12,House,PA,PA-12,Summer L. Lee,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,incumbent
+HOUSE-PA-13,House,PA,PA-13,John Joyce,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-PA-14,House,PA,PA-14,Guy Reschenthaler,R,0.9956,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-PA-15,House,PA,PA-15,Glenn Thompson,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-PA-16,House,PA,PA-16,Mike Kelly,R,0.9903,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-PA-17,House,PA,PA-17,Christopher R. Deluzio,D,0.9478,0.94,0.089,0.085,0,Kalshi exact,incumbent
+HOUSE-RI-01,House,RI,RI-01,Gabe Amo,D,0.9883,0.97,0.044,0.043,0,Kalshi exact,incumbent
+HOUSE-RI-02,House,RI,RI-02,Seth Magaziner,D,0.9742,0.94,0.089,0.087,0,Kalshi exact,incumbent
+HOUSE-SC-01,House,SC,SC-01,Jenny Costa Honeycutt,R,0.6458,0.62,0.69,0.445,0,Kalshi exact,certified list
+HOUSE-SC-02,House,SC,SC-02,Joe Wilson,R,0.8445,0.85,0.234,0.198,0,Kalshi exact,certified list
+HOUSE-SC-03,House,SC,SC-03,Sheri Biggs,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-SC-04,House,SC,SC-04,William Timmons,R,0.989,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-SC-05,House,SC,SC-05,Wes Climer,R,0.9402,0.9658,0.05,0.047,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-SC-06,House,SC,SC-06,James E Jim Clyburn,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-SC-07,House,SC,SC-07,Russell Fry,R,0.9926,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-SD-01,House,SD,SD-01,Republican nominee (name not collected),R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",placeholder
+HOUSE-TN-01,House,TN,TN-01,Diana Harshbarger,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TN-02,House,TN,TN-02,Tim Burchett,R,0.9961,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TN-03,House,TN,TN-03,"Charles J. ""Chuck"" Fleischmann",R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TN-04,House,TN,TN-04,Scott DesJarlais,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TN-05,House,TN,TN-05,Charlie Hatcher,R,0.8838,0.88,0.184,0.163,0,Kalshi exact,certified list
+HOUSE-TN-06,House,TN,TN-06,Republican nominee (name not collected),R,0.9901,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",placeholder
+HOUSE-TN-07,House,TN,TN-07,Matt Van Epps,R,0.9888,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TN-08,House,TN,TN-08,David Kustoff,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TN-09,House,TN,TN-09,Brent Taylor,R,0.7384,0.81,0.304,0.224,0,Kalshi exact,certified list
+HOUSE-TX-01,House,TX,TX-01,Nathaniel Moran,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-TX-02,House,TX,TX-02,Steve Toth,R,0.99,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-TX-03,House,TX,TX-03,Keith Self,R,0.984,0.9933,0.01,0.01,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-TX-04,House,TX,TX-04,Pat Fallon,R,0.9955,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-TX-05,House,TX,TX-05,Lance Gooden,R,0.9924,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-TX-06,House,TX,TX-06,Jake Ellzey,R,0.9933,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-TX-07,House,TX,TX-07,Lizzie Pannill Fletcher,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-TX-08,House,TX,TX-08,Jessica Hart Steinmann,R,0.9961,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-TX-09,House,TX,TX-09,Alex Mealer,R,0.7837,0.76,0.396,0.31,0,Kalshi exact,certified list
+HOUSE-TX-10,House,TX,TX-10,Chris Gober,R,0.9908,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-TX-11,House,TX,TX-11,August Pfluger,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-TX-12,House,TX,TX-12,Craig A. Goldman,R,0.989,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TX-13,House,TX,TX-13,Ronny Jackson,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TX-14,House,TX,TX-14,"Randy K. Weber, Sr.",R,0.9961,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TX-15,House,TX,TX-15,Bobby Pulido,D,0.6499,0.82,0.286,0.186,0,Kalshi bucket-midpoint,certified list
+HOUSE-TX-16,House,TX,TX-16,Veronica Escobar,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-TX-17,House,TX,TX-17,Pete Sessions,R,0.9937,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TX-18,House,TX,TX-18,Christian Menefee,D,0.9883,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-TX-19,House,TX,TX-19,Republican nominee (name not collected),R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",placeholder
+HOUSE-TX-20,House,TX,TX-20,Joaquin Castro,D,0.9883,0.97,0.044,0.043,0,Kalshi exact,certified list
+HOUSE-TX-21,House,TX,TX-21,Republican nominee (name not collected),R,0.9899,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",placeholder
+HOUSE-TX-22,House,TX,TX-22,Republican nominee (name not collected),R,0.9809,0.9916,0.012,0.012,0,"Kalshi Safe bucket (>=90c), value imputed",placeholder
+HOUSE-TX-23,House,TX,TX-23,Brandon Herrera,R,0.6776,0.57,0.811,0.55,0,Kalshi exact,certified list
+HOUSE-TX-24,House,TX,TX-24,Beth Van Duyne,R,0.9364,0.963,0.054,0.051,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TX-25,House,TX,TX-25,Roger Williams,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TX-26,House,TX,TX-26,Brandon Gill,R,0.9897,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TX-27,House,TX,TX-27,Michael Cloud,R,0.994,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TX-28,House,TX,TX-28,Henry Cuellar,D,0.9016,0.93,0.105,0.094,0,Kalshi exact,certified list
+HOUSE-TX-29,House,TX,TX-29,Sylvia R. Garcia,D,0.991,0.98,0.029,0.029,0,Kalshi exact,incumbent
+HOUSE-TX-30,House,TX,TX-30,Democratic nominee (name not collected),D,0.9943,0.99,0.014,0.014,0,Kalshi exact,placeholder
+HOUSE-TX-31,House,TX,TX-31,John R. Carter,R,0.9896,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TX-32,House,TX,TX-32,Republican nominee (name not collected),R,0.857,0.88,0.184,0.158,0,Kalshi exact,placeholder
+HOUSE-TX-33,House,TX,TX-33,Colin Allred,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-TX-34,House,TX,TX-34,Vicente Gonzalez,D,0.7882,0.82,0.286,0.226,0,Kalshi bucket-midpoint,certified list
+HOUSE-TX-35,House,TX,TX-35,Johnny Garcia,D,0.6187,0.68,0.556,0.344,0,Kalshi exact,certified list
+HOUSE-TX-36,House,TX,TX-36,Brian Babin,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-TX-37,House,TX,TX-37,Greg Casar,D,0.9835,0.95,0.074,0.073,0,Kalshi exact,certified list
+HOUSE-TX-38,House,TX,TX-38,Republican nominee (name not collected),R,0.9871,0.9948,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",placeholder
+HOUSE-UT-01,House,UT,UT-01,Democratic nominee (name not collected),D,0.9777,0.98,0.029,0.028,0,Kalshi exact,placeholder
+HOUSE-UT-02,House,UT,UT-02,Republican nominee (name not collected),R,0.9909,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",placeholder
+HOUSE-UT-03,House,UT,UT-03,Celeste Maloy,R,0.9909,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-UT-04,House,UT,UT-04,Republican nominee (name not collected),R,0.9909,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",placeholder
+HOUSE-VA-01,House,VA,VA-01,"Robert J. ""Rob"" Wittman",R,0.4388,0.39,1.358,0.596,1,Kalshi exact,certified list
+HOUSE-VA-02,House,VA,VA-02,Elaine G. Luria,D,0.8579,0.9,0.152,0.13,0,Kalshi exact,certified list
+HOUSE-VA-03,House,VA,VA-03,"Robert C. ""Bobby"" Scott",D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-VA-04,House,VA,VA-04,Jennifer L. McClellan,D,0.991,0.98,0.029,0.029,0,Kalshi exact,certified list
+HOUSE-VA-05,House,VA,VA-05,John J. McGuire III,R,0.7222,0.68,0.556,0.402,0,Kalshi exact,certified list
+HOUSE-VA-06,House,VA,VA-06,Ben L. Cline,R,0.9914,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-VA-07,House,VA,VA-07,Eugene S. Vindman,D,0.9637,0.97,0.044,0.042,0,Kalshi exact,certified list
+HOUSE-VA-08,House,VA,VA-08,"Donald ""Don"" S. Beyer Jr.",D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-VA-09,House,VA,VA-09,H. Morgan Griffith,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-VA-10,House,VA,VA-10,Suhas Subramanyam,D,0.9731,0.96,0.059,0.057,0,Kalshi exact,incumbent
+HOUSE-VA-11,House,VA,VA-11,James R. Walkinshaw,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,certified list
+HOUSE-VT-01,House,VT,VT-01,Becca Balint,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,incumbent
+HOUSE-WA-01,House,WA,WA-01,Suzan K. DelBene,D,0.9883,0.97,0.044,0.043,0,Kalshi exact,incumbent
+HOUSE-WA-02,House,WA,WA-02,Rick Larsen,D,0.9835,0.95,0.074,0.073,0,Kalshi exact,incumbent
+HOUSE-WA-03,House,WA,WA-03,Marie Gluesenkamp Perez,D,0.8955,0.91,0.136,0.122,0,Kalshi exact,incumbent
+HOUSE-WA-04,House,WA,WA-04,Republican nominee (name not collected),R,0.9064,0.89,0.168,0.152,0,Kalshi exact,placeholder
+HOUSE-WA-05,House,WA,WA-05,Michael Baumgartner,R,0.8525,0.85,0.234,0.2,0,Kalshi exact,incumbent
+HOUSE-WA-06,House,WA,WA-06,Emily Randall,D,0.998,1.0,-0.0,-0.0,0,Kalshi exact,incumbent
+HOUSE-WA-07,House,WA,WA-07,Pramila Jayapal,D,0.991,0.98,0.029,0.029,0,Kalshi exact,incumbent
+HOUSE-WA-08,House,WA,WA-08,Kim Schrier,D,0.9559,0.93,0.105,0.1,0,Kalshi exact,incumbent
+HOUSE-WA-09,House,WA,WA-09,Adam Smith,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,incumbent
+HOUSE-WA-10,House,WA,WA-10,Marilyn Strickland,D,0.9813,0.94,0.089,0.088,0,Kalshi exact,incumbent
+HOUSE-WI-01,House,WI,WI-01,Bryan Steil,R,0.5949,0.56,0.837,0.498,0,Kalshi exact,incumbent
+HOUSE-WI-02,House,WI,WI-02,Mark Pocan,D,0.9858,0.96,0.059,0.058,0,Kalshi exact,incumbent
+HOUSE-WI-03,House,WI,WI-03,Rebecca Cooke,D,0.7795,0.82,0.286,0.223,0,Kalshi bucket-midpoint,certified list
+HOUSE-WI-04,House,WI,WI-04,Gwen Moore,D,0.9943,0.99,0.014,0.014,0,Kalshi exact,certified list
+HOUSE-WI-05,House,WI,WI-05,Scott Fitzgerald,R,0.9906,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-WI-06,House,WI,WI-06,Glenn Grothman,R,0.9725,0.9869,0.019,0.019,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-WI-07,House,WI,WI-07,Michael Alfonso,R,0.938,0.9642,0.053,0.049,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-WI-08,House,WI,WI-08,Tony Wied,R,0.8849,0.9,0.152,0.135,0,Kalshi exact,certified list
+HOUSE-WV-01,House,WV,WV-01,Carol Miller,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list
+HOUSE-WV-02,House,WV,WV-02,Riley M. Moore,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",incumbent
+HOUSE-WY-01,House,WY,WY-01,Chuck Gray,R,0.9964,0.995,0.007,0.007,0,"Kalshi Safe bucket (>=90c), value imputed",certified list

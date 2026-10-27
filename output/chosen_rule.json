@@ -1,0 +1,8 @@
+{
+  "tau": 0.4,
+  "delta": 0.0,
+  "w_model": {
+    "Senate": 0.5,
+    "House": 0.35
+  }
+}
